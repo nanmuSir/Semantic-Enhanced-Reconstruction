@@ -1,0 +1,1478 @@
+[
+  {
+    "ROI": 95,
+    "clustered_semantics": {
+      "Location": "grass, road, front, sandwich, shirt, ocean, table, street, tracks, field, beach, zoo, building, room, laptop, window, on, flowers, snow, london",
+      "Object": "airplane, building, people., table, surfboard, sandwich, toilet, dog, clock, vase, sign, train, slope, baseball, vegetables, sink, flowers, jacket, horse, man",
+      "Action": "mounted, none, sitting, holding, playing, lying, grazing, riding, smiling, wearing, looking, skiing, swinging, jumping, eating, filled, carrying, is, has, doing",
+      "Color": "tie, city, chocolate, nice, clean, large, grassy, silver, street, old, white, none, window, green, \u65e0, fluffy, floral, park, different, suit"
+    }
+  },
+  {
+    "ROI": 60,
+    "clustered_semantics": {
+      "Location": "field, near, mirror, runway, wall, grass, sitting, sandwich, bed, water, washington, street, flowers, shirt, man, laptop, beach, table, hand, slope",
+      "Object": "vase, dog, plate, bus, surfboard, toilet, jacket, pizza, sink, ball, food, man, racket, table, people., flowers, plane, skateboard, building, horse",
+      "Action": "playing, covered, hitting, sitting, sells, watching, eating, filled, riding, holding, has, jumping, looking, swinging, wearing, is, shown, laying, surrounded, skiing",
+      "Color": "dirt, city, chocolate, lit, tie, dark, silver, white, suit, none, couple, a., clean, tall, phone, bird, young, standing, basil, large"
+    }
+  },
+  {
+    "ROI": 62,
+    "clustered_semantics": {
+      "Location": "road, sandwich, enclosure, sink, street, water, table, wall, field, grass, laptop, beach, shirt, picture, front, snow, garage, restaurant, mouth, bench",
+      "Object": "furniture, sink, plate, sign, cat, people., food, bus, cars, horse, sandwich, building, man, table, baseball, park, flowers, shirt, airplane, surfboard",
+      "Action": "sitting, hanging, eating, performing, sells, watching, looking, filled, doing, reaching, wearing, holding, riding, covered, topped, is, skiing, playing, seen, has",
+      "Color": "grass, old, tall, open, silver, large, bright, coffee, wall, near, glasses, two, street, tv, empty, man, park, white, fruit, blond"
+    }
+  },
+  {
+    "ROI": 64,
+    "clustered_semantics": {
+      "Location": "slope, grass, shirt, table, street, field, bathroom, sandwich, room, building, front, sink, background, counter, laptop, water, hand, snow, man, picture",
+      "Object": "train, furniture, surfboard, person, flowers, man, skateboard, clock, vegetables, table, plate, bench, laptop, shirt, building, toilet, cat, pizza, bird, food",
+      "Action": "eating, riding, playing, sells, parked, near, sitting, has, seen, filled, jumping, cooking, wearing, grazing, running, skiing, holding, covered, shown, with",
+      "Color": "suit, park, phone, open, chocolate, old, bird, large, young, white, dark, street, silver, two, tv, grass, colorful, fruit, beach, plain"
+    }
+  },
+  {
+    "ROI": 1,
+    "clustered_semantics": {
+      "Location": "field, kitchen, grass, wall, desk, garage, on, sandwich, zoo, air, snow, street, store, shirt, sink, london, crowd, hand, bathroom, beach",
+      "Object": "airplane, cat, clock, horse, pizza, train, table, sink, sign, vegetables, hat, people., surfboard, vase, racket, luggage, building, man, park, flowers",
+      "Action": "has, with, holding, looking, posing, sitting, riding, on, placed, grazing, eating, hanging, skiing, playing, seen, laying, takes, performing, sleeping, jumping",
+      "Color": "tie, chocolate, large, old, grass, dark, phone, city, different, two, glasses, silver, street, clean, tall, blonde, busy, horse, white, \u65e0"
+    }
+  },
+  {
+    "ROI": 2,
+    "clustered_semantics": {
+      "Location": "hand, table, front, wall, grass, room, pasture, laptop, field, man, street, night, snow, shirt, on, food, station, beach, bed, london",
+      "Object": "dog, racket, building, table, surfboard, truck, mirror, sign, vegetables, bedroom, sink, pizza, people., jacket, ball, man, toilet, airplane, drink, boat",
+      "Action": "filled, riding, wearing, is, holding, eating, doing, lit, near, sells, jumping, waiting, clean, lying, playing, has, going, skiing, looking, sitting",
+      "Color": "park, clean, field, large, grassy, silver, nice, old, two, dark, white, suit, coffee, basil, bird, american, wooden, snow, beach, glazed"
+    }
+  },
+  {
+    "ROI": 90,
+    "clustered_semantics": {
+      "Location": "field, grass, kitchen, road, wall, building, shirt, track, plate, sink, street, people., picture, snow, front, beach, suitcase, laptop, table, man",
+      "Object": "surfboard, statue, candle, building, cat, boat, people., sink, plate, table, jacket, truck, ball, pizza, flowers, man, toilet, airplane, horse, food",
+      "Action": "playing, is, sitting, wearing, seen, laying, topped, approaching, riding, has, cooking, clean, filled, parked, holding, skiing, containing, eating, jumping, built",
+      "Color": "chocolate, grassy, bright, large, cowboy, beautiful, phone, silver, half, park, two, suit, white, wall, snow, clean, different, blonde, old, \u65e0"
+    }
+  },
+  {
+    "ROI": 4,
+    "clustered_semantics": {
+      "Location": "water, wall, road, bed, sandwich, snow, table, field, tracks, front, picture, sink, fence, grass, corner, beach, street, people., slope, shirt",
+      "Object": "picture, building, flowers, table, skateboard, surfboard, street, cat, luggage, pizza, food, people., cars, man, racket, sink, toilet, vegetables, bird, hat",
+      "Action": "filled, looking, holding, grazing, laying, seen, in, sitting, smiling, riding, jumping, containing, covered, eating, brushing, skiing, playing, performing, is, walking",
+      "Color": "large, grassy, coffee, tall, open, white, bird, street, tie, wooden, clean, \u65e0, computer, suit, snow, old, field, two, silver, trolly"
+    }
+  },
+  {
+    "ROI": 73,
+    "clustered_semantics": {
+      "Location": "table, building, field, garage, grass, kitchen, slope, shirt, top, snow, girl, front, water, room, laptop, on, beach, hand, street, london",
+      "Object": "truck, glasses, table, person, luggage, vegetables, dog, man, building, street, surfboard, plate, chairs, people., clock, baseball, boat, food, flowers, park",
+      "Action": "looking, riding, mounted, sitting, hanging, topped, wearing, playing, filled, with, sleeping, eating, covered, ski, seen, using, stacked, holding, has, displayed",
+      "Color": "chocolate, large, night, park, tie, horse, green, car, open, wooden, empty, white, clean, young, grassy, \u65e0, two, glasses, bird, beach"
+    }
+  },
+  {
+    "ROI": 3,
+    "clustered_semantics": {
+      "Location": "table, grass, sitting, street, food, field, shirt, background, man, water, beach, picture, london, road, tracks, front, hand, store, room, slope",
+      "Object": "people., building, sign, surfboard, person, flowers, toilet, table, plate, kitchen, man, bus, pizza, baseball, dog, shoes, airplane, horse, boat, vegetables",
+      "Action": "sleeping, swinging, has, eating, playing, sells, riding, mounted, sitting, ski, wearing, shown, parked, jumping, watching, empty, is, filled, contains, brushing",
+      "Color": "field, tall, large, phone, silver, white, old, dirt, young, chocolate, a., none, clean, suit, fruit, green, bird, open, fluffy, snow"
+    }
+  },
+  {
+    "ROI": 104,
+    "clustered_semantics": {
+      "Location": "laptop, garage, background, slope, on, table, street, tracks, snow, sandwich, grass, road, beach, bathroom, london, shirt, sitting, field, kitchen, girl",
+      "Object": "plate, toilet, train, sign, pizza, person, airplane, beach, table, surfboard, laptop, glasses, ball, man, building, vegetables, candle, umbrella, dog, bird",
+      "Action": "enjoying, parked, holding, riding, posing, driving, filled, is, sleeping, covered, topped, eating, looking, wearing, has, skiing, jumping, playing, sitting, looks",
+      "Color": "city, silver, large, nice, clean, open, food, grass, different, dark, scenic, american, white, two, tall, young, basil, suit, horse, picture"
+    }
+  },
+  {
+    "ROI": 10,
+    "clustered_semantics": {
+      "Location": "road, street, ground, front, court, bed, laptop, sandwich, slope, water, shirt, sky, bathroom, grass, plate, table, beach, field, mouth, london",
+      "Object": "plate, cat, person, pizza, building, racket, vase, bird, surfboard, motorcycle, jacket, table, man, skateboard, laptop, vegetables, park, airplane, batter, train",
+      "Action": "none, has, riding, cutting, seen, grazing, covered, filled, playing, eating, wearing, skiing, topped, sitting, takes, with, looking, cooking, features, holding",
+      "Color": "old, open, chocolate, clean, large, white, silver, grass, ornate, phone, bright, snow, tie, beaker, asian, suit, street, two, blonde, beach"
+    }
+  },
+  {
+    "ROI": 44,
+    "clustered_semantics": {
+      "Location": "grass, park, building, plate, front, on, hand, street, table, dirt, wall, shirt, surfboard, water, desk, field, sky, london, restaurant, beach",
+      "Object": "cat, clock, surfboard, truck, building, vegetables, table, sink, sign, toilet, people., slope, ball, sandwich, statue, man, flowers, vases, boat, bathroom",
+      "Action": "doing, placed, riding, playing, has, filled, parked, near, jumping, holding, and., cleaning, seen, painted, sitting, cutting, eating, is, skiing, looking",
+      "Color": "white, chocolate, grass, empty, silver, different, dark, large, park, none, glasses, lit, plate, young, \u65e0, beautiful, fluffy, two, tall, street"
+    }
+  },
+  {
+    "ROI": 25,
+    "clustered_semantics": {
+      "Location": "front, table, street, road, zoo, snow, desk, field, grass, restaurant, slope, wall, food, chair, beach, shirt, dirt, room, london, hand",
+      "Object": "umbrella, laptop, airplane, sign, pizza, sink, table, vegetables, plate, dog, vase, toilet, bus, bike, batter, glasses, bed, man, horse, surfboard",
+      "Action": "grazing, sitting, using, has, seen, filled, talking, riding, in, holding, doing, jumping, skiing, takes, wearing, covered, eating, walking, gather, with",
+      "Color": "silver, grassy, large, balloons, food, street, banner, open, phone, young, dark, clean, bikini, glasses, a., two, window, fluffy, white, tie"
+    }
+  },
+  {
+    "ROI": 23,
+    "clustered_semantics": {
+      "Location": "building, grass, road, pasture, field, street, sign, sandwich, wall, dirt, snow, laptop, court, shirt, kitchen, table, front, people, \u65e0, beach",
+      "Object": "plate, sink, grass, sign, sandwich, chairs, street, train, boat, people., surfboard, jacket, cat, man, ball, vase, airplane, vegetables, bird, bed",
+      "Action": "filled, in, taking, leaning, watching, sitting, covered, looking, has, riding, wearing, playing, jumping, eating, doing, skiing, attached, parked, holding, cooking",
+      "Color": "phone, grass, beautiful, chocolate, half, silver, white, bikini, coffee, couple, large, a., desk, snow, young, tall, horse, suit, field, clean"
+    }
+  },
+  {
+    "ROI": 87,
+    "clustered_semantics": {
+      "Location": "field, night, street, table, road, sky, lot, sandwich, laptop, slope, front, shirt, hand, wave, picture, grass, beach, wall, people., bathroom",
+      "Object": "clock, surfboard, people., cat, building, toilet, pizza, train, table, horse, laptop, man, glasses, skateboard, candle, airplane, cars, flowers, vegetables, guy",
+      "Action": "shown, playing, covered, sitting, riding, has, wearing, driving, holding, eating, jumping, parked, looking, staring, clean, skiing, swinging, takes, sells, filled",
+      "Color": "tall, chocolate, beach, open, bed, city, white, checkered, street, suit, a., dark, young, silver, old, computer, clean, none, frosted, large"
+    }
+  },
+  {
+    "ROI": 65,
+    "clustered_semantics": {
+      "Location": "field, court, sky, sandwich, counter, grass, table, wave, street, kitchen, people., water, mirror, front, shirt, beach, restaurant, slope, building, dirt",
+      "Object": "vase, truck, airplane, plate, food, sink, man, frisbee, table, pizza, surfboard, glasses, cat, toilet, ball, laptop, water, building, picture, horse",
+      "Action": "playing, parked, riding, sells, sitting, using, holding, smiling, with, wearing, seen, cleaned, looking, next, eating, ski, near, filled, watching, topped",
+      "Color": "grassy, clean, silver, banner, street, coffee, open, window, different, white, glasses, dark, \u65e0, large, tall, two, beach, fruit, old, birthday"
+    }
+  },
+  {
+    "ROI": 50,
+    "clustered_semantics": {
+      "Location": "water, sign, court, garage, snow, near, grass, building, hill, table, street, ocean, kitchen, london, room, shirt, slope, front, pasture, field",
+      "Object": "toilet, paper, street, surfboard, table, dog, jacket, food, bus, man, pizza, boat, laptop, building, ball, bed, grass, horse, candle, vegetables",
+      "Action": "and., filled, sitting, attached, eating, covered, looking, holding, playing, built, with, skiing, riding, walking, sleeping, wearing, seen, swinging, in, topped",
+      "Color": "dirt, coffee, white, street, suit, window, large, silver, half, old, open, glasses, a., two, plate, different, snow, tall, floral, fruit"
+    }
+  },
+  {
+    "ROI": 66,
+    "clustered_semantics": {
+      "Location": "table, chair, sink, grass, wall, building, field, sandwich, bed, people., picture, hand, room, snow, wave, street, front, man, beach, shirt",
+      "Object": "train, flowers, airplane, plate, pizza, candle, building, people., table, vegetables, man, cat, sign, jacket, toilet, baseball, surfboard, giraffe, sink, counter",
+      "Action": "seen, sleeping, playing, parked, holding, looking, using, going, sitting, topped, grazing, eating, skiing, has, riding, walking, wearing, is, sells, doing",
+      "Color": "plain, food, grassy, white, large, street, open, young, city, floral, silver, a., window, horse, empty, suit, snow, bikini, fruit, two"
+    }
+  },
+  {
+    "ROI": 8,
+    "clustered_semantics": {
+      "Location": "chair, street, water, field, bed, tracks, table, zoo, shirt, grass, sky, \u65e0, bathroom, on, background, beach, sandwich, slope, sitting, kitchen",
+      "Object": "plate, food, airplane, building, jacket, bus, person, bear, cat, pizza, surfboard, people., bench, table, man, vegetables, park, clock, umbrella, picture",
+      "Action": "topped, filled, is, cutting, sells, with, has, riding, sitting, wearing, skiing, walking, shown, clean, eating, playing, parked, doing, sleeping, cooking",
+      "Color": "phone, large, city, grass, standing, clean, white, wooden, open, silver, two, suit, food, dark, horse, window, old, \u65e0, cute, snow"
+    }
+  },
+  {
+    "ROI": 24,
+    "clustered_semantics": {
+      "Location": "street, food, field, water, table, laptop, front, side, chair, tracks, building, snow, slope, shirt, desk, beach, grass, fence, london, back",
+      "Object": "dog, food, bear, sink, surfboard, bus, building, man, toilet, sign, people., table, baseball, shirt, plate, airplane, boat, pizza, vase, flowers",
+      "Action": "wearing, walking, holding, parked, looking, is, eating, sitting, cleaning, sells, filled, ski, riding, performing, covered, with, goes, sliced, sleeping, jumping",
+      "Color": "\u65e0, open, park, tall, coffee, green, clean, none, phone, silver, young, white, food, suit, bed, two, snow, colorless, street, large"
+    }
+  },
+  {
+    "ROI": 69,
+    "clustered_semantics": {
+      "Location": "bed, picture, on, food, snow, front, table, field, room, grass, shirt, \u65e0, street, desk, bathroom, tracks, station, background, man, beach",
+      "Object": "building, bike, vase, candle, table, people., flowers, beach, pizza, train, cat, luggage, skateboard, surfboard, toilet, baseball, umbrella, horse, food, man",
+      "Action": "none, holding, in, laying, is, using, flying, filled, riding, skiing, cooking, eating, playing, posing, wearing, jumping, watching, lying, sitting, has",
+      "Color": "grassy, plastic, busy, wooden, colorful, park, tall, open, large, glasses, \u65e0, bright, food, young, clean, two, snow, phone, white, basil"
+    }
+  },
+  {
+    "ROI": 101,
+    "clustered_semantics": {
+      "Location": "plate, water, front, table, wall, slope, in, food, field, sky, street, sign, grass, shirt, hand, beach, bed, people., park, girl",
+      "Object": "toilet, people., building, cat, candle, pizza, flowers, man, surfboard, beach, jacket, clock, airplane, bus, sink, table, racket, horse, vase, food",
+      "Action": "sleeping, riding, looking, filled, holding, playing, eating, wearing, shown, flying, topped, reaching, cooking, sitting, has, seen, features, covered, wading, skiing",
+      "Color": "silver, open, food, park, white, large, grassy, phone, bird, \u65e0, bright, young, window, blonde, clean, two, suit, fruit, snow, beach"
+    }
+  },
+  {
+    "ROI": 18,
+    "clustered_semantics": {
+      "Location": "kitchen, wave, back, background, street, flowers, bathroom, food, grass, snow, restaurant, beach, shirt, front, table, wall, corner, hand, field, chinese",
+      "Object": "building, cat, toilet, glasses, pizza, people., sink, truck, clock, airplane, surfboard, food, man, batter, table, sign, boat, rock, bed, flowers",
+      "Action": "filled, cutting, sitting, with, on, riding, playing, wearing, driving, has, waiting, smiling, topped, carrying, eating, looking, performing, cooking, covered, skiing",
+      "Color": "grassy, open, large, phone, city, clean, park, basil, dark, different, tall, two, silver, young, white, ornate, glasses, food, a., suit"
+    }
+  },
+  {
+    "ROI": 46,
+    "clustered_semantics": {
+      "Location": "building, field, front, bathroom, laptop, grass, table, street, food, beach, zoo, people., sky, shirt, back, dirt, wave, picture, hand, couch",
+      "Object": "building, train, plate, slope, surfboard, cat, bed, clock, pizza, vegetables, people., man, boat, glasses, baseball, person, park, table, flowers, horse",
+      "Action": "laying, eating, with, sleeping, is, riding, holding, going, wearing, driving, filled, skiing, jumping, sells, sitting, seen, walking, parked, moving, brushing",
+      "Color": "city, tie, dark, tall, old, large, white, plate, chocolate, fruit, suit, silver, street, phone, dirt, open, cowboy, two, \u65e0, beach"
+    }
+  },
+  {
+    "ROI": 13,
+    "clustered_semantics": {
+      "Location": "road, wall, slope, table, grass, background, field, sandwich, restaurant, in, snow, street, pole, people., desk, sink, beach, shirt, home, counter",
+      "Object": "toilet, racket, flowers, surfboard, horse, truck, table, mirror, person, vase, people., building, man, guy, pizza, shirt, boat, airplane, bird, vegetables",
+      "Action": "covered, has, parked, eating, hitting, placed, looking, walking, playing, sitting, wearing, topped, floating, takes, riding, cooking, skiing, with, holding, waiting",
+      "Color": "green, banner, park, brick, colorful, chocolate, sitting, street, large, bikini, young, silver, clean, field, none, white, frosted, two, \u65e0, glasses"
+    }
+  },
+  {
+    "ROI": 68,
+    "clustered_semantics": {
+      "Location": "grass, building, water, zoo, street, near, sky, tracks, sandwich, sign, beach, washington, with, station, wall, shirt, field, table, dirt, laptop",
+      "Object": "people., vegetables, plate, man, bus, building, umbrella, boat, surfboard, toilet, pizza, shirt, sink, ball, animal, refrigerator, horse, flowers, table, airplane",
+      "Action": "looking, with, sleeping, parked, placed, playing, holding, has, sitting, seen, grazing, wearing, jumping, doing, shown, eating, skiing, filled, riding, covered",
+      "Color": "large, open, clean, food, beach, tall, white, different, phone, silver, frosted, young, suit, street, \u65e0, two, horse, dark, grass, window"
+    }
+  },
+  {
+    "ROI": 34,
+    "clustered_semantics": {
+      "Location": "wall, table, snow, field, pasture, slope, beach, kitchen, bathroom, picture, laptop, grass, ground, shirt, on, sandwich, washington, street, pole, park",
+      "Object": "jacket, clock, vase, dog, laptop, plate, vegetables, surfboard, pizza, man, boat, bus, building, table, baseball, food, sink, skateboard, airplane, bedroom",
+      "Action": "lit, driving, holding, eating, sitting, is, playing, swinging, has, shown, filled, jumping, using, cleaning, near, skiing, riding, with, looking, full",
+      "Color": "open, silver, busy, grassy, white, snow, clean, large, phone, tall, street, old, beaker, suit, \u65e0, bird, window, near, food, two"
+    }
+  },
+  {
+    "ROI": 105,
+    "clustered_semantics": {
+      "Location": "grass, table, wall, bench, pole, front, street, sandwich, field, slope, sky, room, suitcase, background, on, restaurant, london, beach, desk, mouth",
+      "Object": "table, building, toilet, horse, computer, sink, food, train, boat, pizza, airplane, bedroom, bench, surfboard, chairs, man, flowers, vase, glasses, vegetables",
+      "Action": "eating, holding, seen, wearing, placed, sitting, has, riding, clean, jumping, waiting, skiing, parked, with, sliced, is, playing, using, performing, laying",
+      "Color": "grassy, chocolate, large, bright, old, clean, open, nice, banner, white, suit, two, young, bird, floral, silver, tall, apple, computer, a."
+    }
+  },
+  {
+    "ROI": 7,
+    "clustered_semantics": {
+      "Location": "field, grass, water, kitchen, street, front, display, on, table, snow, shirt, london, court, pasture, restaurant, beach, bathroom, car, hand, man",
+      "Object": "toilet, pizza, surfboard, clock, dog, chairs, people., horse, person, boat, cars, man, ball, vase, sink, jacket, airplane, vegetables, flowers, picture",
+      "Action": "cut, playing, with, parked, eating, sitting, using, has, waiting, staring, attached, skiing, riding, jumping, topped, takes, holding, driving, shown, cooking",
+      "Color": "chocolate, clean, large, bright, tall, silver, none, phone, truck, dirt, white, blonde, window, \u65e0, snow, suit, young, bird, floral, big"
+    }
+  },
+  {
+    "ROI": 157,
+    "clustered_semantics": {
+      "Location": "bathroom, suitcase, front, grass, zoo, wall, table, kitchen, field, snow, holding, beach, station, rocks, people., mirror, on, surfboard, street, laptop",
+      "Object": "airplane, building, table, people., bus, sign, pizza, cat, furniture, surfboard, snow, vegetables, laptop, shirt, racket, toilet, sink, flowers, man, bird",
+      "Action": "sitting, swinging, is, sells, riding, playing, performing, going, gather, holding, wearing, eating, topped, skiing, cleaning, parked, filled, covered, looking, has",
+      "Color": "park, green, dirt, colorful, white, street, open, floral, chocolate, suit, old, empty, large, two, \u65e0, wooden, bird, different, coffee, beach"
+    }
+  },
+  {
+    "ROI": 100,
+    "clustered_semantics": {
+      "Location": "ground, room, tracks, table, street, laptop, background, snow, sign, with, london, slope, station, shirt, grass, beach, sandwich, water, front, field",
+      "Object": "dog, surfboard, airplane, sandwich, table, bus, building, toilet, grass, bedroom, man, laptop, sign, ball, chairs, sink, clock, vegetables, furniture, shoes",
+      "Action": "jumping, covered, is, wearing, holding, grazing, shown, watching, riding, leaning, in, skiing, hanging, sitting, has, eating, looking, hitting, playing, sleeping",
+      "Color": "analog, half, tall, large, coffee, greenery, white, parked, silver, window, wood, young, city, clean, different, two, olives, horse, suit, water"
+    }
+  },
+  {
+    "ROI": 45,
+    "clustered_semantics": {
+      "Location": "front, laptop, table, restaurant, grass, background, corner, wall, snow, street, room, field, beach, shirt, water, sitting, hand, bathroom, wave, lot",
+      "Object": "people., truck, dog, sign, sink, man, chairs, table, pizza, luggage, flowers, laptop, ball, glove, building, vegetables, vases, airplane, food, surfboard",
+      "Action": "is, sitting, swinging, holding, riding, grazing, sells, has, moving, wearing, eating, skiing, looking, watching, gather, on, topped, floating, playing, walking",
+      "Color": "young, colorful, field, different, beach, suit, grassy, silver, dark, open, \u65e0, two, white, chocolate, glasses, old, food, analog, large, snow"
+    }
+  },
+  {
+    "ROI": 31,
+    "clustered_semantics": {
+      "Location": "ground, slope, wall, laptop, water, room, on, field, grass, street, snow, sandwich, beach, people., shirt, man, sink, table, front, corner",
+      "Object": "dog, toilet, shoes, sink, statue, bus, chairs, counter, food, surfboard, man, pizza, laptop, boat, baseball, water, building, airplane, flowers, luggage",
+      "Action": "sitting, riding, has, docked, filled, looking, posing, skiing, near, performing, sleeping, with, holding, playing, swinging, takes, mounted, shown, drinking, eating",
+      "Color": "dirt, chocolate, large, green, phone, park, clean, field, banner, silver, suit, street, white, tall, young, bird, cute, couple, \u65e0, open"
+    }
+  },
+  {
+    "ROI": 14,
+    "clustered_semantics": {
+      "Location": "water, chair, grass, desk, ocean, field, mirror, street, building, front, snow, table, london, room, beach, shirt, sink, sandwich, hand, bed",
+      "Object": "toilet, surfboard, pizza, clock, flowers, chairs, boat, racket, sink, dog, truck, vegetables, people., man, batter, glasses, airplane, bird, building, counter",
+      "Action": "doing, riding, using, holding, looking, docked, eating, parked, filled, sitting, wearing, is, cooking, with, shown, skiing, playing, topped, seen, laying",
+      "Color": "large, park, open, chocolate, colorful, dirt, window, old, silver, clean, commercial, dark, closeup, two, food, white, suit, asian, frosted, phone"
+    }
+  },
+  {
+    "ROI": 41,
+    "clustered_semantics": {
+      "Location": "field, table, near, water, slope, street, building, sandwich, restaurant, grass, snow, shirt, sink, forest, on, beach, wall, picture, laptop, people.",
+      "Object": "vase, toilet, airplane, building, plate, dog, sink, man, luggage, truck, surfboard, jacket, laptop, racket, park, flowers, horse, vegetables, room, white",
+      "Action": "playing, riding, parked, grazing, jumping, filled, shown, sleeping, eating, ski, holding, looking, wearing, covered, sitting, with, none, is, reflecting, packed",
+      "Color": "large, park, old, commercial, young, grassy, silver, chocolate, clean, bikini, open, snow, a., suit, window, dark, white, two, tabby, tall"
+    }
+  },
+  {
+    "ROI": 39,
+    "clustered_semantics": {
+      "Location": "front, display, room, street, wave, chair, table, field, grass, background, wall, on, snow, laptop, bathroom, slope, sandwich, jacket, branch, ocean",
+      "Object": "park, dog, rock, luggage, person, statue, train, baseball, laptop, flowers, candle, surfboard, pizza, man, jacket, vegetables, airplane, chairs, plate, sink",
+      "Action": "laying, riding, walking, holding, covered, playing, smiling, eating, looking, posing, sits, waiting, ski, sitting, doing, filled, floating, has, wearing, enjoying",
+      "Color": "\u65e0, bird, brick, dark, street, open, large, field, tall, basil, suit, couple, chocolate, young, silver, clean, shirtless, white, tie, slope"
+    }
+  },
+  {
+    "ROI": 40,
+    "clustered_semantics": {
+      "Location": "grass, chair, street, background, sign, people, table, road, garage, sandwich, dark, water, on, front, laptop, beach, mound, field, slope, rocks",
+      "Object": "cat, vegetables, vase, clock, people., train, table, racket, pizza, plate, surfboard, man, ball, slope, building, plane, boat, white, food, cars",
+      "Action": "filled, sells, waiting, topped, wearing, sleeping, lying, walking, looking, eating, holding, riding, goes, in, lit, has, skiing, playing, going, sitting",
+      "Color": "sheep, tall, silver, colorful, clock, snow, plain, old, trolly, none, empty, bikini, white, soaked, couple, door, large, road, park, suit"
+    }
+  },
+  {
+    "ROI": 158,
+    "clustered_semantics": {
+      "Location": "pasture, background, road, runway, water, mirror, shirt, counter, field, grass, snow, table, on, beach, station, street, slope, london, forest, wall",
+      "Object": "clock, surfboard, pizza, racket, plate, train, toilet, table, sink, boat, dog, people., man, vegetables, flowers, batter, horse, park, airplane, glasses",
+      "Action": "sitting, has, eating, wearing, walking, covered, posing, with, holding, riding, looking, skiing, carrying, filled, playing, is, jumping, flying, doing, cooking",
+      "Color": "young, green, phone, tall, different, park, large, silver, window, white, suit, dirt, clean, asian, field, frosted, street, two, basil, food"
+    }
+  },
+  {
+    "ROI": 123,
+    "clustered_semantics": {
+      "Location": "wall, water, field, room, court, grass, trees, laptop, kitchen, street, bed, counter, suitcase, snow, flowers, food, sitting, beach, shirt, large",
+      "Object": "train, cat, people., building, table, suitcase, toilet, sink, laptop, man, vegetables, skateboard, hand, pizza, ball, boat, desk, flowers, orange, airplane",
+      "Action": "on, eating, walking, wearing, sleeping, sells, holding, catching, has, riding, playing, sitting, waiting, using, shown, skiing, filled, topped, floating, lit",
+      "Color": "city, large, colorful, open, bright, field, banner, sidewalk, clean, young, suit, different, wood, coffee, bird, white, a., cream, computer, accent"
+    }
+  },
+  {
+    "ROI": 146,
+    "clustered_semantics": {
+      "Location": "table, snow, front, kitchen, field, man, wave, building, picture, street, grass, shirt, on, bed, wall, flowers, runway, water, slope, wood",
+      "Object": "pizza, plate, giraffe, table, flowers, bus, man, park, people., truck, airplane, laptop, ball, surfboard, beach, photo, bowl, skateboard, furniture, vegetables",
+      "Action": "topped, wearing, sells, lit, riding, eating, looking, walking, filled, has, using, posing, sitting, near, is, skiing, cooking, jumping, playing, shown",
+      "Color": "open, old, chicken, green, grass, dark, young, two, banner, none, blond, wall, suit, white, mountain, beautiful, snow, fuji, city, large"
+    }
+  },
+  {
+    "ROI": 94,
+    "clustered_semantics": {
+      "Location": "court, street, desk, sandwich, station, bathroom, shirt, front, table, slope, surfboard, road, display, snow, beach, chair, dirt, grass, field, london",
+      "Object": "luggage, sign, surfboard, vegetables, dog, pizza, sink, plate, horse, man, truck, slope, people., racket, chairs, glasses, boat, airplane, toilet, building",
+      "Action": "holding, laying, filled, eating, walking, sitting, riding, skiing, clean, and., has, looking, wearing, near, takes, cooking, topped, watching, doing, stacked",
+      "Color": "chocolate, street, half, old, clean, colorful, none, wall, silver, no., suit, grassy, dark, phone, horse, white, two, park, blonde, large"
+    }
+  },
+  {
+    "ROI": 58,
+    "clustered_semantics": {
+      "Location": "field, water, road, garage, laptop, front, background, street, wall, table, kitchen, food, beach, sky, shirt, dirt, hand, on, slope, grass",
+      "Object": "toilet, bike, candle, sign, truck, pizza, building, man, sink, vegetables, shirt, ball, boat, laptop, chairs, grass, surfboard, dog, airplane, horse",
+      "Action": "sleeping, reaching, has, walking, parked, shown, laying, filled, riding, holding, looking, jumping, cooking, placed, wearing, ski, sitting, with, covered, eating",
+      "Color": "chocolate, phone, dark, grassy, bikini, street, white, silver, old, glasses, snow, large, park, \u65e0, open, man, bedroom, two, different, water"
+    }
+  },
+  {
+    "ROI": 61,
+    "clustered_semantics": {
+      "Location": "table, pole, slope, sandwich, field, tracks, on, laptop, plate, ground, wall, street, grass, shirt, beach, television, snow, kitchen, sink, event",
+      "Object": "plate, glasses, sink, surfboard, candle, clock, toilet, horse, pizza, man, chairs, truck, table, people., cat, vegetables, flowers, sign, building, airplane",
+      "Action": "sitting, none, eating, has, performing, playing, looking, in, walking, cooking, topped, filled, riding, holding, with, skiing, shown, goes, wearing, attached",
+      "Color": "beach, tall, young, chocolate, large, clean, window, beautiful, old, street, two, dark, suit, a., silver, white, bird, fluffy, tie, snow"
+    }
+  },
+  {
+    "ROI": 47,
+    "clustered_semantics": {
+      "Location": "wall, street, table, pasture, field, chair, trees, sandwich, grass, room, snow, picture, sink, suit, beach, laptop, london, with, counter, wave",
+      "Object": "person, luggage, vase, chairs, surfboard, pizza, sink, train, animal, horse, laptop, boat, ball, jacket, building, vegetables, flowers, man, toilet, airplane",
+      "Action": "laying, eating, sitting, holding, catching, wearing, covered, filled, riding, looking, jumping, has, is, walking, cooking, takes, skiing, brushing, performing, parked",
+      "Color": "different, park, chocolate, large, empty, white, open, plate, dirt, tall, silver, a., bird, none, young, glasses, snow, dark, green, fluffy"
+    }
+  },
+  {
+    "ROI": 57,
+    "clustered_semantics": {
+      "Location": "field, wall, water, sandwich, laptop, slope, street, display, snow, pole, corner, grass, table, front, beach, shirt, couch, chair, dirt, man",
+      "Object": "dog, surfboard, plate, couple, table, pizza, sign, sink, airplane, slope, man, people., boat, ball, train, jacket, toilet, vegetables, vase, flowers",
+      "Action": "sitting, wearing, posing, leaning, parked, taking, using, playing, eating, looking, holding, skiing, floating, topped, running, riding, swinging, cooking, is, has",
+      "Color": "beach, tall, bird, phone, plain, white, silver, window, half, suit, snow, large, city, fluffy, old, clean, food, two, colorful, fruit"
+    }
+  },
+  {
+    "ROI": 74,
+    "clustered_semantics": {
+      "Location": "room, field, table, grass, on, front, slope, beach, sandwich, snow, laptop, ground, street, picture, corner, shirt, wall, girl, counter, tokyo",
+      "Object": "glasses, airplane, horse, table, truck, building, clock, statue, toilet, sandwich, sink, batter, skateboard, people., bathroom, lake, man, vegetables, bird, bike",
+      "Action": "playing, doing, eating, has, wearing, near, holding, skiing, shown, posing, using, swinging, looking, parked, filled, sitting, takes, with, jumping, riding",
+      "Color": "food, large, open, silver, green, park, tie, computer, old, fluffy, white, banner, snow, two, bird, \u65e0, none, plate, window, glasses"
+    }
+  },
+  {
+    "ROI": 48,
+    "clustered_semantics": {
+      "Location": "water, bed, hand, field, courtyard, flowers, street, table, food, kitchen, slope, ocean, ground, holding, restaurant, snow, people., sink, grass, front",
+      "Object": "shoes, surfboard, cat, table, plate, people., building, kite, man, pizza, vegetables, sign, boat, cars, racket, bed, grass, toilet, plane, statue",
+      "Action": "playing, riding, parked, holding, topped, smiling, eating, sitting, wearing, forming, looking, reaching, skiing, floating, covered, has, attached, takes, none, sells",
+      "Color": "green, different, floral, large, beach, clean, tall, white, chocolate, open, glasses, dirt, odd, \u65e0, silver, none, bed, old, horse, street"
+    }
+  },
+  {
+    "ROI": 9,
+    "clustered_semantics": {
+      "Location": "grass, field, room, table, pasture, laptop, shirt, sink, sandwich, wall, front, chair, window, snow, picture, beach, wave, street, bathroom, lot",
+      "Object": "person, train, table, clock, dog, laptop, boat, horse, ball, vase, man, statue, surfboard, plate, pizza, shirt, flowers, airplane, building, vegetables",
+      "Action": "holding, walking, wearing, playing, swinging, near, placed, looking, parked, sleeping, jumping, hitting, going, with, none, riding, cooking, sitting, washing, skiing",
+      "Color": "young, tall, dark, food, white, large, old, silver, open, slope, tv, street, phone, couple, city, window, balloons, different, park, suit"
+    }
+  },
+  {
+    "ROI": 28,
+    "clustered_semantics": {
+      "Location": "grass, in, background, table, runway, field, plate, street, pole, girl, station, beach, slope, kitchen, snow, shirt, building, sandwich, outdoor, london",
+      "Object": "train, toilet, flowers, table, vegetables, people., chairs, statue, clock, pizza, shirt, plane, surfboard, racket, sink, boat, man, cat, bedroom, bear",
+      "Action": "sliced, holding, has, filled, wearing, watching, sitting, looking, eating, topped, riding, seen, reaching, with, playing, ski, parked, swinging, covered, stopped",
+      "Color": "silver, coffee, open, large, snow, street, plate, bread, busy, two, old, green, colorful, grass, tall, suit, phone, asian, white, beach"
+    }
+  },
+  {
+    "ROI": 97,
+    "clustered_semantics": {
+      "Location": "table, street, field, sandwich, room, hand, sink, shirt, wall, grass, london, station, mirror, front, on, slope, snow, beach, man, picture",
+      "Object": "horse, surfboard, chairs, plate, sink, train, luggage, person, laptop, pizza, food, jacket, flowers, sign, baseball, vase, airplane, man, boat, building",
+      "Action": "eating, sleeping, waiting, riding, going, parked, holding, sitting, driving, filled, wearing, skiing, covered, is, doing, with, using, has, playing, topped",
+      "Color": "chocolate, tall, dark, glasses, silver, open, bikini, grassy, clean, white, american, large, old, snow, suit, young, bird, two, christmas, water"
+    }
+  },
+  {
+    "ROI": 27,
+    "clustered_semantics": {
+      "Location": "table, field, snow, slope, bench, front, picture, sandwich, street, ground, station, grass, room, shirt, beach, wall, man, sink, london, building",
+      "Object": "table, pizza, umbrella, bathroom, man, people., luggage, street, bird, truck, park, cat, sink, racket, bus, vegetables, toilet, flowers, surfboard, jacket",
+      "Action": "holding, riding, eating, laying, is, wearing, flying, has, looking, sitting, sleeping, skiing, walking, in, cutting, filled, takes, grazing, and., cooking",
+      "Color": "young, chocolate, large, tall, open, park, closeup, white, dirt, man, two, silver, suit, dark, car, a., window, bird, old, beach"
+    }
+  },
+  {
+    "ROI": 29,
+    "clustered_semantics": {
+      "Location": "restaurant, on, table, park, chair, slope, front, field, room, air, street, bathroom, snow, grass, display, shirt, beach, chinese, hand, man",
+      "Object": "kitchen, jacket, table, boat, racket, pizza, person, vegetables, man, candle, truck, chairs, people., dog, sink, surfboard, flowers, horse, skateboard, airplane",
+      "Action": "sitting, doing, flying, wearing, holding, riding, using, parked, skiing, laying, shown, looking, sleeping, has, eating, cooking, surrounded, topped, puts, walking",
+      "Color": "phone, old, little, none, grassy, coffee, tall, beach, young, wooden, fuji, two, white, window, park, suit, floral, street, dark, large"
+    }
+  },
+  {
+    "ROI": 107,
+    "clustered_semantics": {
+      "Location": "zoo, water, laptop, front, wall, slope, shirt, sandwich, street, wooden, restaurant, snow, grass, bathroom, beach, london, on, table, field, corner",
+      "Object": "bowl, shirt, vegetables, boat, train, person, pizza, plate, table, man, surfboard, clock, cat, sink, guy, chairs, airplane, bench, luggage, giraffe",
+      "Action": "playing, on, seen, holding, riding, wearing, sitting, swinging, jumping, doing, looking, topped, eating, cooking, parked, with, sells, watching, cleaning, skiing",
+      "Color": "horse, chocolate, large, tall, open, clean, park, window, silver, white, none, dirt, suit, a., young, dark, banana, snow, beach, half"
+    }
+  },
+  {
+    "ROI": 88,
+    "clustered_semantics": {
+      "Location": "bathroom, front, shirt, counter, grass, table, pasture, sandwich, field, chair, sky, sign, restaurant, on, street, water, station, beach, london, laptop",
+      "Object": "train, sign, mirror, airplane, toilet, table, plate, racket, surfboard, man, cat, vase, sink, people., grass, food, skateboard, jacket, bed, bear",
+      "Action": "sitting, topped, looking, laying, driving, parked, wearing, crossing, playing, filled, placed, holding, cleaning, eating, riding, skiing, seen, has, cutting, doing",
+      "Color": "bright, phone, busy, bed, street, chocolate, silver, open, old, nice, two, man, grass, \u65e0, large, white, beaker, suit, tall, bird"
+    }
+  },
+  {
+    "ROI": 79,
+    "clustered_semantics": {
+      "Location": "road, slope, side, grass, street, snow, display, wall, ground, table, water, restaurant, london, shirt, hand, room, beach, on, field, food",
+      "Object": "train, glasses, sign, food, sink, surfboard, toilet, pizza, cat, vegetables, man, ball, water, clock, building, table, bear, kite, airplane, bedroom",
+      "Action": "parked, holding, sitting, riding, sells, wearing, posing, playing, with, driving, eating, covered, sleeping, laying, topped, skiing, going, is, clean, leaning",
+      "Color": "\u65e0, food, dirt, long, silver, clean, colorful, young, large, window, open, street, snow, glasses, bird, different, floral, two, park, white"
+    }
+  },
+  {
+    "ROI": 91,
+    "clustered_semantics": {
+      "Location": "grass, background, room, snow, top, table, field, laptop, sandwich, front, runway, tracks, tokyo, shirt, street, beach, hand, hill, chair, counter",
+      "Object": "sink, shirt, cars, table, train, people., pizza, vegetables, dog, man, chairs, boat, surfboard, toilet, mirror, building, baseball, luggage, statue, horse",
+      "Action": "riding, playing, hitting, watching, is, filled, sitting, covered, and., holding, topped, has, sliced, wearing, looking, skiing, parked, placed, cleaning, flying",
+      "Color": "large, bright, grassy, food, young, old, silver, phone, bird, white, chocolate, odd, suit, city, field, \u65e0, tall, two, frosted, fruit"
+    }
+  },
+  {
+    "ROI": 49,
+    "clustered_semantics": {
+      "Location": "top, street, room, sandwich, field, near, grass, wall, wave, slope, snow, table, picture, london, water, shirt, beach, man, laptop, front",
+      "Object": "plate, surfboard, table, train, pizza, flowers, bed, toilet, sign, dog, sink, people., man, airplane, vases, batter, chairs, vegetables, beach, bird",
+      "Action": "holding, going, riding, filled, leaning, looking, sitting, walking, smiling, wearing, eating, skiing, topped, shown, has, docked, none, takes, cooking, near",
+      "Color": "chocolate, field, dirt, open, tall, large, colorful, park, different, street, white, glasses, empty, old, cute, silver, dark, snow, two, \u65e0"
+    }
+  },
+  {
+    "ROI": 108,
+    "clustered_semantics": {
+      "Location": "room, field, water, wall, street, sandwich, picture, snow, slope, bathroom, grass, tracks, laptop, beach, shirt, on, table, chinese, court, hand",
+      "Object": "dog, building, clock, plate, plane, umbrella, sink, man, chairs, pizza, street, toilet, food, ball, cars, surfboard, train, vase, flowers, vegetables",
+      "Action": "is, sleeping, posing, playing, filled, holding, mounted, swinging, shown, riding, reaching, skiing, eating, parked, doing, hitting, sitting, has, wearing, cleaning",
+      "Color": "large, phone, dark, street, old, colorful, open, clean, grass, cup, wood, chocolate, silver, window, none, cute, tv, bird, white, glasses"
+    }
+  },
+  {
+    "ROI": 118,
+    "clustered_semantics": {
+      "Location": "yard, airport, table, sandwich, window, field, shirt, desk, snow, picture, beach, grass, garage, sink, front, tokyo, slope, wall, suitcase, street",
+      "Object": "building, people., truck, mirror, toilet, plate, sink, bird, vase, laptop, dog, bike, ball, grass, chairs, vegetables, shirt, airplane, man, surfboard",
+      "Action": "riding, parked, watching, using, holding, flying, has, filled, wearing, posing, looking, skiing, jumping, sitting, clean, eating, laying, playing, covered, shown",
+      "Color": "large, field, chocolate, clean, wooden, grass, silver, street, striped, american, old, snow, shirtless, table, bread, two, computer, suit, green, white"
+    }
+  },
+  {
+    "ROI": 109,
+    "clustered_semantics": {
+      "Location": "near, mirror, dirt, grass, street, field, laptop, sandwich, wave, bathroom, shirt, snow, table, sink, wall, room, desk, beach, man, london",
+      "Object": "grass, surfboard, building, toilet, table, laptop, sink, tv, people., pizza, cat, boat, man, glasses, baseball, vegetables, airplane, truck, vase, horse",
+      "Action": "mounted, is, posing, playing, swinging, wearing, watching, grazing, driving, sitting, filled, eating, near, holding, riding, clean, laying, has, covered, ski",
+      "Color": "colorful, clean, plate, food, none, trolly, dirt, tall, silver, white, young, glasses, no., open, snow, two, park, tabby, coffee, large"
+    }
+  },
+  {
+    "ROI": 116,
+    "clustered_semantics": {
+      "Location": "runway, grass, outside, court, bathroom, water, picture, table, plate, room, sky, people., street, beach, pasture, shirt, station, holding, field, wall",
+      "Object": "pizza, surfboard, vegetables, sink, toilet, truck, table, man, candle, white, laptop, jacket, building, racket, airplane, desk, bird, boat, picture, cat",
+      "Action": "parked, riding, using, sitting, holding, wearing, in, sells, playing, seen, topped, skiing, is, looking, laying, cooking, doing, has, eating, smiling",
+      "Color": "large, clean, silver, phone, apple, street, open, young, colorful, chocolate, slope, \u65e0, bird, glasses, tall, two, snow, fluffy, picture, white"
+    }
+  },
+  {
+    "ROI": 163,
+    "clustered_semantics": {
+      "Location": "bathroom, field, tracks, sandwich, front, mirror, street, building, ocean, park, people., grass, table, shirt, snow, bed, kitchen, laptop, dirt, none",
+      "Object": "candle, people., park, pizza, sink, toilet, furniture, plate, man, bus, cat, racket, surfboard, boat, picture, vegetables, building, airplane, horse, stove",
+      "Action": "laying, waiting, filled, holding, in, eating, sitting, performing, wearing, walking, cleaning, jumping, seen, leaning, has, covered, riding, sits, contains, skiing",
+      "Color": "chocolate, silver, computer, green, large, open, grass, park, tall, trolly, old, none, \u65e0, white, suit, window, frosted, tie, different, bird"
+    }
+  },
+  {
+    "ROI": 151,
+    "clustered_semantics": {
+      "Location": "runway, near, building, side, table, snow, laptop, sandwich, water, grass, beach, wall, shirt, people., display, field, street, sink, man, zoo",
+      "Object": "building, sign, pizza, toilet, sink, people., cars, luggage, racket, flowers, shirt, ball, man, water, cat, surfboard, airplane, motorcycle, horse, vegetables",
+      "Action": "grazing, playing, wearing, has, floating, eating, full, sitting, filled, doing, passing, looking, riding, topped, walking, skiing, shown, holding, with, is",
+      "Color": "open, dark, beautiful, tall, white, trolly, dirt, chocolate, two, asian, silver, glasses, none, clean, city, young, bed, bird, large, beach"
+    }
+  },
+  {
+    "ROI": 75,
+    "clustered_semantics": {
+      "Location": "grass, table, field, bathroom, snow, street, kitchen, on, display, \u65e0, beach, wall, sandwich, shirt, slope, plate, near, room, wave, people",
+      "Object": "dog, plate, computer, boat, man, grass, table, bus, luggage, building, vegetables, guy, clock, glasses, surfboard, people., airplane, vase, pizza, cars",
+      "Action": "sitting, riding, holding, is, wearing, flying, doing, parked, lying, jumping, on, filled, eating, looking, using, skiing, shown, and., has, laying",
+      "Color": "colorful, grass, car, large, silver, door, food, open, phone, tall, old, snow, \u65e0, none, dark, white, floral, beaker, suit, bird"
+    }
+  },
+  {
+    "ROI": 84,
+    "clustered_semantics": {
+      "Location": "field, snow, grass, front, building, table, court, street, water, kitchen, mouth, background, wii, on, zoo, cake, desk, runway, shirt, beach",
+      "Object": "building, bus, cat, pizza, person, table, jacket, surfboard, clock, man, laptop, vase, kite, baseball, boat, park, toilet, vegetables, sign, picture",
+      "Action": "sitting, topped, filled, seen, looking, doing, posing, wearing, has, stacked, eating, holding, with, playing, jumping, ski, using, carrying, parked, riding",
+      "Color": "slope, ornate, dark, food, silver, white, large, open, computer, different, clean, none, trolly, suit, a., tall, basil, old, beach, desk"
+    }
+  },
+  {
+    "ROI": 96,
+    "clustered_semantics": {
+      "Location": "laptop, airport, table, road, building, water, grass, wall, field, cake, street, snow, picture, beach, bed, shirt, london, pasture, slope, front",
+      "Object": "truck, building, clock, horse, people., flowers, sink, plate, airplane, glasses, man, surfboard, pizza, toilet, ball, vegetables, sign, boat, table, laptop",
+      "Action": "with, sitting, jumping, has, mixed, placed, filled, looking, parked, holding, sleeping, is, swinging, eating, driving, using, playing, riding, wearing, ski",
+      "Color": "glasses, large, horse, grass, green, coffee, open, white, park, silver, two, snow, wooden, plain, suit, old, field, banana, trolly, \u65e0"
+    }
+  },
+  {
+    "ROI": 51,
+    "clustered_semantics": {
+      "Location": "mirror, laptop, sky, street, grass, garage, trees, sandwich, slope, wall, counter, in, front, table, shirt, people, room, beach, building, field",
+      "Object": "pizza, surfboard, sign, flowers, toilet, plate, statue, boat, bus, chairs, bear, laptop, ball, man, building, vegetables, umbrella, racket, horse, airplane",
+      "Action": "playing, holding, looking, using, wearing, grazing, riding, painted, has, walking, hitting, skiing, sitting, seen, eating, jumping, cooking, contains, filled, smiling",
+      "Color": "tall, phone, silver, park, street, large, empty, white, open, beach, green, bread, dirt, two, baby, clean, snow, old, a., suit"
+    }
+  },
+  {
+    "ROI": 15,
+    "clustered_semantics": {
+      "Location": "water, field, background, shirt, bed, pasture, room, on, girl, beach, people., snow, grass, sign, desk, wave, sandwich, street, table, slope",
+      "Object": "table, skateboard, pizza, cat, flowers, jacket, toilet, building, sink, banana, bench, people., man, train, sign, person, airplane, horse, vase, surfboard",
+      "Action": "playing, wearing, riding, shown, filled, hanging, lit, skiing, made, jumping, has, holding, parked, sitting, using, cooking, takes, with, eating, topped",
+      "Color": "clean, open, half, grass, white, large, chocolate, young, dark, cute, phone, silver, snow, analog, bird, suit, cake, a., window, two"
+    }
+  },
+  {
+    "ROI": 5,
+    "clustered_semantics": {
+      "Location": "pole, water, front, table, grass, field, street, sandwich, slope, snow, road, suitcase, london, sitting, picture, beach, bathroom, child, hand, room",
+      "Object": "table, cars, people., dog, sink, glasses, person, vase, pizza, airplane, vegetables, sign, surfboard, plate, guy, man, building, flowers, boat, water",
+      "Action": "flying, holding, has, playing, topped, eating, sitting, looking, riding, is, walking, waiting, wearing, placed, filled, contains, skiing, parked, posing, sleeping",
+      "Color": "silver, none, snow, large, clean, food, city, floral, field, dark, \u65e0, wooden, old, white, beaker, two, computer, suit, bird, window"
+    }
+  },
+  {
+    "ROI": 103,
+    "clustered_semantics": {
+      "Location": "wall, room, table, mirror, front, field, runway, grass, slope, background, bun, snow, shirt, pole, tower, man, on, beach, street, \u65e0",
+      "Object": "train, clock, plate, desk, airplane, flowers, building, sink, surfboard, people., vegetables, pizza, ball, glasses, table, man, wall, boat, bird, horse",
+      "Action": "filled, grazing, none, riding, doing, has, looking, skiing, posing, holding, reaching, wearing, parked, eating, is, jumping, puts, playing, cutting, sitting",
+      "Color": "food, large, tall, bed, phone, city, slope, silver, modern, \u65e0, young, white, suit, dark, fluffy, floral, tie, two, snow, bird"
+    }
+  },
+  {
+    "ROI": 26,
+    "clustered_semantics": {
+      "Location": "child, table, room, field, water, sky, holding, front, sink, kitchen, beach, street, chinese, grass, slope, shirt, chair, picture, bathroom, bed",
+      "Object": "building, toilet, airplane, food, surfboard, cat, table, clock, sign, beach, laptop, people., bus, racket, shirt, man, vase, horse, pizza, flowers",
+      "Action": "jumping, near, holding, playing, driving, sitting, performing, talking, looking, parked, is, riding, filled, eating, wearing, ski, has, cooking, empty, shown",
+      "Color": "bright, bikini, snow, silver, white, open, large, american, young, two, phone, city, suit, food, clean, bird, different, frosted, fancy, window"
+    }
+  },
+  {
+    "ROI": 70,
+    "clustered_semantics": {
+      "Location": "tracks, grass, laptop, snow, front, road, wall, sitting, sandwich, table, chinese, desk, beach, kitchen, street, shirt, mirror, surfboard, bathroom, field",
+      "Object": "flowers, cat, pizza, park, surfboard, sink, table, sign, clock, plate, man, truck, people., jacket, batter, banana, building, airplane, toilet, luggage",
+      "Action": "riding, sitting, leaning, watching, posing, serving, holding, playing, looking, wearing, grazing, skiing, crossing, walking, topped, has, eating, is, near, using",
+      "Color": "large, old, dark, chocolate, street, park, young, sign, dirt, white, two, silver, a., snow, half, window, knitted, cute, computer, suit"
+    }
+  },
+  {
+    "ROI": 92,
+    "clustered_semantics": {
+      "Location": "water, field, table, sandwich, road, with, building, snow, flowers, grass, runway, wall, beach, desk, front, shirt, man, colorado, hand, street",
+      "Object": "glasses, train, pizza, bathroom, toilet, flowers, people., room, plate, sign, man, picture, surfboard, guy, cat, table, airplane, horse, luggage, vegetables",
+      "Action": "holding, waiting, parked, playing, swinging, sitting, riding, using, walking, filled, wearing, skiing, placed, with, has, is, eating, containing, shown, full",
+      "Color": "dark, grass, colorful, none, chocolate, open, city, sign, old, field, white, phone, street, \u65e0, large, two, frosted, suit, bird, wooden"
+    }
+  },
+  {
+    "ROI": 11,
+    "clustered_semantics": {
+      "Location": "sink, street, water, field, table, bathroom, slope, sandwich, couch, near, grass, sitting, picture, shirt, laptop, restaurant, sky, beach, people., front",
+      "Object": "clock, toilet, plate, sign, cat, boat, vegetables, pizza, park, surfboard, jacket, bus, people., sink, man, guy, truck, table, horse, airplane",
+      "Action": "grazing, riding, holding, looking, has, using, posing, driving, cutting, swinging, with, skiing, jumping, laying, wearing, sitting, playing, filled, eating, built",
+      "Color": "phone, dark, large, bird, different, white, silver, field, open, two, \u65e0, street, clean, wooden, grass, young, chocolate, glasses, fluffy, beans"
+    }
+  },
+  {
+    "ROI": 67,
+    "clustered_semantics": {
+      "Location": "field, wall, bathroom, front, picture, tracks, back, plate, zoo, grass, water, station, slope, street, suitcase, beach, hand, sandwich, sky, people.",
+      "Object": "vase, flowers, plate, man, laptop, building, people., surfboard, chairs, boat, vegetables, train, pizza, dog, racket, pole, airplane, jacket, bird, motorcycle",
+      "Action": "performing, holding, posing, parked, waiting, looking, riding, walking, swinging, playing, jumping, skiing, filled, eating, is, cooking, has, wearing, and., sitting",
+      "Color": "open, silver, dark, phone, old, banner, large, chocolate, suit, dirt, street, city, wooden, two, white, half, bed, banana, a., different"
+    }
+  },
+  {
+    "ROI": 115,
+    "clustered_semantics": {
+      "Location": "building, table, grass, sandwich, field, laptop, zoo, man, beach, snow, kitchen, display, street, wave, on, shirt, front, wall, slope, suitcase",
+      "Object": "building, clock, people., sign, surfboard, cat, plate, sandwich, table, vase, airplane, truck, man, flowers, baseball, vegetables, giraffe, shirt, boat, bed",
+      "Action": "sitting, is, eating, filled, playing, wearing, and., skiing, has, riding, holding, hanging, parked, jumping, doing, cooking, covered, seen, pointing, full",
+      "Color": "large, tall, silver, wooden, park, nice, chocolate, different, glass, \u65e0, clean, snow, dirt, bright, old, suit, white, two, half, beach"
+    }
+  },
+  {
+    "ROI": 12,
+    "clustered_semantics": {
+      "Location": "table, water, grass, on, bathroom, field, street, sandwich, beach, hand, front, wall, sitting, suitcase, pasture, court, picture, laptop, surfboard, london",
+      "Object": "horse, shirt, person, airplane, table, people., clock, building, sign, surfboard, food, candle, bus, batter, man, park, plate, pizza, flowers, vegetables",
+      "Action": "sitting, laying, containing, riding, looking, eating, playing, parked, wearing, holding, ski, swinging, topped, clean, none, using, has, covered, sells, on",
+      "Color": "none, chocolate, green, floral, window, phone, park, silver, plate, suit, young, street, no., clean, large, colorful, tall, two, slope, white"
+    }
+  },
+  {
+    "ROI": 38,
+    "clustered_semantics": {
+      "Location": "front, corner, street, table, desk, field, slope, mirror, sandwich, pasture, bathroom, snow, building, on, shirt, tokyo, beach, man, laptop, grass",
+      "Object": "truck, building, surfboard, luggage, table, sink, clock, dog, statue, vegetables, sign, man, laptop, pizza, guy, shoes, skateboard, skier, horse, furniture",
+      "Action": "jumping, near, has, wearing, posing, sitting, filled, seen, looking, performing, riding, topped, ski, and., covered, laying, playing, eating, grazing, holding",
+      "Color": "grassy, colorful, glasses, large, green, clean, fruit, silver, bird, different, parked, coffee, bed, white, old, two, \u65e0, suit, fluffy, open"
+    }
+  },
+  {
+    "ROI": 78,
+    "clustered_semantics": {
+      "Location": "laptop, people, sandwich, table, wall, street, front, field, in, sky, shirt, fence, picture, building, restaurant, beach, kitchen, grass, slope, hand",
+      "Object": "dog, train, table, flowers, candle, building, clock, sink, jacket, pizza, man, people., boat, surfboard, person, toilet, mirror, picture, plane, vegetables",
+      "Action": "playing, has, covered, lying, wearing, eating, filled, jumping, sleeping, laying, riding, topped, near, looking, going, is, skiing, cooking, holding, sitting",
+      "Color": "\u65e0, green, coffee, old, clean, large, plate, none, truck, window, silver, dirt, tall, snow, park, white, apples, tie, blonde, suit"
+    }
+  },
+  {
+    "ROI": 21,
+    "clustered_semantics": {
+      "Location": "front, street, desk, water, room, snow, city, hand, food, field, grass, near, beach, station, runway, london, picture, slope, table, suitcase",
+      "Object": "building, clock, park, pizza, plate, train, animal, surfboard, sign, man, jacket, vegetables, people., vase, ball, boat, table, horse, sink, truck",
+      "Action": "holding, laying, sitting, filled, walking, attached, cleaning, seen, wearing, shown, riding, skiing, jumping, has, with, eating, going, surrounded, looking, cooking",
+      "Color": "tie, large, snow, silver, food, tall, field, old, two, banner, white, street, dark, \u65e0, phone, dry, colorful, fruit, bird, young"
+    }
+  },
+  {
+    "ROI": 165,
+    "clustered_semantics": {
+      "Location": "near, grass, field, shirt, street, trees, hand, room, bowl, wave, snow, man, table, building, restaurant, sandwich, people., beach, slope, kitchen",
+      "Object": "table, horse, building, vase, truck, people., park, toilet, surfboard, vegetables, plate, pizza, jacket, batter, man, boat, flowers, airplane, picture, black",
+      "Action": "riding, holding, parked, filled, is, topped, playing, sitting, eating, looking, carrying, with, jumping, has, made, skiing, clean, cooking, posing, covered",
+      "Color": "empty, large, food, metal, bird, phone, city, dirt, navy, suit, american, bright, snow, colorful, desk, white, two, old, open, fluffy"
+    }
+  },
+  {
+    "ROI": 111,
+    "clustered_semantics": {
+      "Location": "field, street, front, table, wall, city, plate, sandwich, sky, grass, beach, london, desk, shirt, wave, on, picture, slope, laptop, man",
+      "Object": "people., horse, pizza, flowers, toilet, building, laptop, bus, vase, man, glove, ball, surfboard, boat, table, vegetables, motorcycle, sign, clock, airplane",
+      "Action": "covered, holding, waiting, watching, using, wearing, eating, in, doing, topped, walking, skiing, cutting, filled, drinking, riding, none, with, sleeping, sitting",
+      "Color": "phone, none, large, old, bright, empty, silver, grassy, fuzzy, christmas, suit, asian, chocolate, white, colorful, young, field, two, closeup, street"
+    }
+  },
+  {
+    "ROI": 136,
+    "clustered_semantics": {
+      "Location": "grass, runway, front, counter, street, park, mirror, room, field, snow, bathroom, beach, sandwich, shirt, bowl, \u65e0, slope, tree, table, girl",
+      "Object": "dog, vase, table, plate, sandwich, train, sink, park, people., vegetables, building, surfboard, man, racket, flowers, jacket, airplane, laptop, truck, white",
+      "Action": "sitting, eating, holding, full, near, laying, wearing, has, covered, watching, driving, ski, cleaning, with, jumping, waiting, is, showing, lit, riding",
+      "Color": "white, glass, open, coffee, dirt, old, silver, city, phone, field, \u65e0, snow, two, banner, colorful, tall, half, large, none, chocolate"
+    }
+  },
+  {
+    "ROI": 83,
+    "clustered_semantics": {
+      "Location": "field, road, shirt, kitchen, pasture, water, front, grass, street, display, london, beach, snow, hand, room, restaurant, table, ground, laptop, ocean",
+      "Object": "sink, people., glasses, bus, man, building, toilet, cat, vase, surfboard, water, baseball, pizza, skateboard, airplane, table, flowers, horse, luggage, vegetables",
+      "Action": "eating, jumping, shown, holding, sitting, wearing, with, riding, playing, carrying, walking, skiing, parked, clean, looking, is, laying, filled, perched, seen",
+      "Color": "suit, bread, clean, different, bird, open, colorful, curb, slope, tv, street, white, phone, young, wooden, snow, none, two, floral, large"
+    }
+  },
+  {
+    "ROI": 93,
+    "clustered_semantics": {
+      "Location": "road, wall, surfboard, sink, sky, table, on, field, night, beach, bathroom, grass, street, shirt, sign, kitchen, sandwich, london, slope, restaurant",
+      "Object": "clock, plate, horse, train, sink, people., flowers, cat, building, bedroom, airplane, surfboard, man, shirt, racket, sandwich, table, boat, truck, banana",
+      "Action": "eating, filled, using, performing, has, doing, wearing, shown, flying, parked, topped, lying, with, holding, looking, skiing, playing, riding, sitting, is",
+      "Color": "coffee, beach, large, sitting, open, dark, old, tall, half, field, silver, \u65e0, grass, white, cup, two, bird, suit, snow, park"
+    }
+  },
+  {
+    "ROI": 56,
+    "clustered_semantics": {
+      "Location": "pasture, wall, shirt, on, girl, building, chair, water, field, slope, people., counter, beach, grass, front, picture, sandwich, sky, table, street",
+      "Object": "sign, clock, grass, pizza, building, bus, horse, bird, sink, surfboard, batter, plate, laptop, airplane, man, shirt, toilet, vegetables, table, boat",
+      "Action": "parked, has, sleeping, eating, looking, sitting, wearing, holding, swinging, doing, with, skiing, above, riding, cooking, seen, topped, is, going, empty",
+      "Color": "snow, park, food, young, silver, street, large, bird, bikini, different, two, tall, window, clean, open, grassy, \u65e0, suit, beach, white"
+    }
+  },
+  {
+    "ROI": 53,
+    "clustered_semantics": {
+      "Location": "table, sandwich, with, garage, building, slope, front, tower, laptop, room, snow, shirt, beach, street, \u65e0, field, mouth, court, grass, man",
+      "Object": "boat, clock, plate, surfboard, horse, train, jacket, toilet, candle, sandwich, laptop, food, man, batter, park, grass, bathroom, table, bird, vegetables",
+      "Action": "riding, covered, has, jumping, wearing, with, looking, mounted, hitting, holding, none, eating, posing, sitting, installed, skiing, clean, grazing, sleeping, playing",
+      "Color": "open, brick, coffee, different, bright, plastic, large, silver, bikini, old, basil, dirt, two, white, half, snow, \u65e0, glasses, birds, beach"
+    }
+  },
+  {
+    "ROI": 54,
+    "clustered_semantics": {
+      "Location": "street, zoo, wall, front, snow, sandwich, table, display, outdoor, desk, background, station, field, grass, sink, hand, shirt, washington, slope, beach",
+      "Object": "plate, dog, people., vase, street, pizza, table, vegetables, sink, shoes, man, laptop, truck, ball, boat, surfboard, flowers, building, bike, airplane",
+      "Action": "wearing, doing, holding, has, swinging, covered, hanging, sleeping, lying, topped, eating, skiing, looking, seen, near, filled, is, riding, playing, sitting",
+      "Color": "grassy, silver, cheese, dark, old, clean, open, wooden, phone, none, white, glasses, window, large, young, glazed, \u65e0, cute, horse, snow"
+    }
+  },
+  {
+    "ROI": 19,
+    "clustered_semantics": {
+      "Location": "slope, grass, front, sandwich, wall, runway, table, shirt, building, man, beach, picture, sink, field, fence, laptop, couch, hand, street, background",
+      "Object": "surfboard, horse, building, food, people., table, flowers, street, toilet, plane, ball, shoes, computer, train, plate, man, sink, cat, boat, pizza",
+      "Action": "holding, sitting, wearing, has, seen, riding, playing, swinging, topped, grazing, placed, skiing, filled, looking, full, doing, parked, with, is, eating",
+      "Color": "field, floral, dark, open, park, dirt, tall, chicken, window, cute, old, white, large, \u65e0, silver, suit, street, two, bird, beaker"
+    }
+  },
+  {
+    "ROI": 86,
+    "clustered_semantics": {
+      "Location": "laptop, snow, building, road, grass, field, on, background, sandwich, beach, street, london, table, shirt, display, sitting, room, bowl, tracks, man",
+      "Object": "laptop, surfboard, vase, sandwich, plate, flowers, sink, building, bird, man, truck, airplane, ball, jacket, park, chairs, dog, vegetables, boat, toilet",
+      "Action": "eating, posing, placed, riding, holding, filled, flying, sleeping, wearing, looking, sitting, has, skiing, cleaning, seen, none, is, playing, in, reaching",
+      "Color": "park, grassy, phone, colorful, chocolate, clock, open, bird, tall, silver, green, white, food, suit, large, two, fluffy, old, a., wood"
+    }
+  },
+  {
+    "ROI": 17,
+    "clustered_semantics": {
+      "Location": "building, table, on, field, wall, air, chair, food, enclosure, street, ocean, display, london, shirt, front, snow, dirt, grass, sink, slope",
+      "Object": "train, wave, dog, glasses, candle, plate, sandwich, vegetables, laptop, people., surfboard, man, building, ball, toilet, vase, airplane, sign, horse, flowers",
+      "Action": "shown, holding, sitting, filled, sleeping, grazing, flying, doing, has, ski, parked, jumping, looking, attempting, with, riding, eating, wearing, going, is",
+      "Color": "grassy, bird, frosted, large, clean, street, silver, computer, dark, tall, a., white, tie, snow, chocolate, two, old, different, table, glasses"
+    }
+  },
+  {
+    "ROI": 32,
+    "clustered_semantics": {
+      "Location": "field, garage, laptop, plate, runway, water, sink, station, sandwich, bathroom, \u65e0, front, building, table, mouth, beach, grass, street, sky, shirt",
+      "Object": "table, shirt, vase, luggage, train, street, boat, cat, sink, building, sandwich, surfboard, people., racket, horse, laptop, flowers, man, airplane, vegetables",
+      "Action": "mounted, riding, eating, sitting, parked, flying, talking, waiting, wearing, with, jumping, skiing, looking, covered, walking, holding, clean, filled, is, above",
+      "Color": "grass, large, open, phone, clean, park, food, colorful, long, modern, none, silver, snow, white, suit, old, cup, bikini, horse, \u65e0"
+    }
+  },
+  {
+    "ROI": 43,
+    "clustered_semantics": {
+      "Location": "sign, wall, room, pole, zoo, slope, table, water, sandwich, sitting, field, grass, snow, street, front, shirt, runway, beach, kitchen, london",
+      "Object": "cat, surfboard, building, people., candle, flowers, bus, toilet, person, picture, man, laptop, food, racket, boat, pizza, table, shirt, airplane, vegetables",
+      "Action": "riding, filled, holding, wearing, is, posing, eating, wading, covered, doing, has, sitting, driving, looking, next, skiing, sleeping, parked, shown, playing",
+      "Color": "dark, chocolate, tie, large, dirt, silver, tall, infant, window, grass, \u65e0, white, city, clean, floral, suit, old, closeup, two, snow"
+    }
+  },
+  {
+    "ROI": 85,
+    "clustered_semantics": {
+      "Location": "slope, street, front, bed, grass, water, table, sandwich, field, crowd, room, chair, sitting, beach, laptop, shirt, people., suitcase, snow, girl",
+      "Object": "surfboard, luggage, vases, sink, truck, cat, building, person, group, pizza, boat, shirt, man, baseball, table, laptop, horse, vegetables, flowers, airplane",
+      "Action": "waiting, served, on, mounted, placed, wearing, going, flying, eating, has, riding, playing, cut, using, sitting, clean, ski, holding, jumping, near",
+      "Color": "chocolate, white, bird, tall, large, phone, old, silver, dirt, city, young, \u65e0, green, suit, two, scenic, window, park, field, snow"
+    }
+  },
+  {
+    "ROI": 76,
+    "clustered_semantics": {
+      "Location": "back, wall, field, desk, slope, shirt, street, picture, front, sandwich, bathroom, beach, sky, background, grass, car, building, london, table, event",
+      "Object": "surfboard, shoes, toilet, people., building, chairs, table, bus, sign, man, cat, batter, vase, beach, pizza, vegetables, horse, bike, laptop, flowers",
+      "Action": "jumping, parked, with, riding, covered, holding, sells, wearing, looking, playing, waiting, above, sitting, eating, guiding, full, sits, and., sleeping, ski",
+      "Color": "white, grassy, large, open, tall, silver, empty, phone, glazed, city, suit, dark, field, two, food, bikini, table, american, old, bird"
+    }
+  },
+  {
+    "ROI": 114,
+    "clustered_semantics": {
+      "Location": "room, sink, street, corner, laptop, table, garage, sandwich, bathroom, beach, slope, grass, snow, front, pasture, shirt, field, london, hand, surfboard",
+      "Object": "airplane, sink, umbrella, plate, bus, toilet, racket, building, table, chairs, vegetables, pizza, vase, laptop, glasses, dog, horse, truck, surfboard, man",
+      "Action": "with, seen, sleeping, looking, grazing, parked, is, has, riding, watching, topped, holding, cleaning, playing, sitting, covered, skiing, filled, wearing, eating",
+      "Color": "busy, dark, window, beautiful, silver, clean, tall, chocolate, large, car, \u65e0, beach, city, white, phone, old, open, grassy, two, suit"
+    }
+  },
+  {
+    "ROI": 155,
+    "clustered_semantics": {
+      "Location": "table, hand, station, slope, city, snow, wall, street, outside, kitchen, london, grass, sandwich, wave, sitting, zoo, picture, room, field, ocean",
+      "Object": "jacket, giraffe, candle, plate, building, cars, airplane, flowers, table, clock, vegetables, people., sign, man, ball, sink, boat, surfboard, refrigerator, pizza",
+      "Action": "filled, playing, parked, sitting, pulling, topped, hitting, is, holding, wearing, has, skiing, riding, looking, eating, with, shown, using, swinging, walking",
+      "Color": "clean, green, big, large, colorful, silver, park, balloons, chocolate, field, white, suit, phone, bird, two, young, a., fluffy, open, grass"
+    }
+  },
+  {
+    "ROI": 98,
+    "clustered_semantics": {
+      "Location": "grass, court, slope, airport, table, on, shirt, kitchen, building, beach, snow, front, bathroom, room, bed, london, picture, street, field, zoo",
+      "Object": "luggage, bus, dog, table, sink, sign, flowers, pizza, statue, surfboard, vegetables, people., man, shirt, ball, airplane, racket, group, building, boat",
+      "Action": "placed, posing, playing, looking, wearing, walking, filled, served, holding, leaning, grazing, sitting, waiting, has, riding, skiing, parked, jumping, smiling, eating",
+      "Color": "beautiful, door, large, grassy, open, white, dark, park, field, clean, silver, snow, a., bird, young, chocolate, glasses, suit, tall, two"
+    }
+  },
+  {
+    "ROI": 20,
+    "clustered_semantics": {
+      "Location": "kitchen, building, bathroom, table, grass, pasture, court, photo, field, snow, wall, people., street, shirt, beach, sandwich, near, surfboard, hand, on",
+      "Object": "bus, shoes, flowers, pizza, man, airplane, horse, sink, clock, building, baseball, plate, chairs, people., luggage, surfboard, vase, vegetables, bedroom, giraffe",
+      "Action": "riding, topped, mounted, playing, looking, has, filled, sitting, sleeping, grazing, covered, with, talking, wearing, posing, jumping, skiing, eating, is, holding",
+      "Color": "silver, dark, large, banner, open, food, different, old, white, dirt, \u65e0, empty, park, field, basil, snow, bird, two, beach, glasses"
+    }
+  },
+  {
+    "ROI": 153,
+    "clustered_semantics": {
+      "Location": "room, front, grass, laptop, runway, picture, on, sandwich, table, background, couch, ocean, shirt, slope, sky, wall, street, pole, man, field",
+      "Object": "table, surfboard, chairs, sink, truck, vase, counter, food, beach, animal, people., man, airplane, glasses, building, baseball, flowers, vegetables, pizza, horse",
+      "Action": "with, holding, sleeping, sitting, shown, eating, playing, laying, swinging, waiting, grazing, covered, riding, sells, cutting, ski, wearing, performing, cleaning, helping",
+      "Color": "large, silver, \u65e0, dirt, open, plate, tie, phone, old, city, dark, suit, white, snow, coffee, two, window, tall, apple, bird"
+    }
+  },
+  {
+    "ROI": 162,
+    "clustered_semantics": {
+      "Location": "man, laptop, park, counter, field, tracks, front, grass, wall, water, table, beach, cake, snow, street, dirt, slope, shirt, lot, hand",
+      "Object": "train, glove, horse, statue, bench, table, chairs, airplane, luggage, man, surfboard, people., laptop, racket, pizza, flowers, vegetables, bird, boat, picture",
+      "Action": "sitting, riding, touching, walking, performing, has, doing, laying, filled, pulling, cooking, is, skiing, with, eating, wearing, holding, looking, displayed, topped",
+      "Color": "wooden, clock, old, tie, dark, chocolate, near, man, blurry, white, none, colorful, blankets, little, banana, field, half, snow, large, dog"
+    }
+  },
+  {
+    "ROI": 143,
+    "clustered_semantics": {
+      "Location": "table, laptop, field, runway, street, hill, beach, building, sandwich, shirt, snow, man, grass, kitchen, large, wall, slope, front, tall, game",
+      "Object": "laptop, surfboard, toilet, paper, vase, sink, candle, sign, vegetables, sandwich, bike, skateboard, giraffe, building, airplane, bat, man, bird, street, train",
+      "Action": "playing, has, using, covered, seen, filled, parked, eating, sells, going, cooking, with, wearing, sitting, topped, none, riding, holding, looking, skiing",
+      "Color": "chocolate, colorful, clean, phone, glasses, white, circular, crowded, busy, silver, young, mountains, pretty, tall, fluffy, couple, large, half, dirt, park"
+    }
+  },
+  {
+    "ROI": 59,
+    "clustered_semantics": {
+      "Location": "laptop, background, hand, sandwich, water, front, road, sky, table, room, beach, display, sink, desk, grass, bathroom, surfboard, field, wall, court",
+      "Object": "clock, surfboard, vase, slope, airplane, building, truck, people., food, horse, dog, toilet, bench, man, laptop, luggage, plate, table, vegetables, pizza",
+      "Action": "eating, sitting, filled, jumping, riding, hitting, watching, playing, swinging, parked, performing, wearing, near, is, looking, cooking, seen, covered, skiing, has",
+      "Color": "field, chocolate, phone, large, clean, grass, dark, two, \u65e0, suit, silver, street, white, colorful, open, desk, shirtless, old, snow, bird"
+    }
+  },
+  {
+    "ROI": 71,
+    "clustered_semantics": {
+      "Location": "table, water, field, street, bed, on, shirt, food, slope, grass, wall, london, beach, snow, display, front, bathroom, court, pasture, man",
+      "Object": "table, park, pizza, jacket, cat, people., sink, boat, surfboard, desk, truck, mirror, baseball, man, toilet, flowers, airplane, picture, bird, vegetables",
+      "Action": "eating, sitting, looking, topped, and., doing, riding, skiing, is, walking, cooking, with, playing, filled, sleeping, containing, next, wearing, mounted, jumping",
+      "Color": "grass, phone, silver, horse, different, street, chocolate, bed, old, empty, half, bikini, green, large, suit, two, white, snow, asian, straw"
+    }
+  },
+  {
+    "ROI": 102,
+    "clustered_semantics": {
+      "Location": "wall, snow, table, on, room, mouth, field, sandwich, wave, zoo, grass, street, beach, front, shirt, man, slope, tokyo, desk, laptop",
+      "Object": "flowers, dog, building, jacket, toilet, skateboard, child, food, sign, people., chairs, pizza, park, surfboard, umbrella, man, airplane, baseball, train, bedroom",
+      "Action": "eating, covered, sitting, sleeping, wearing, looking, placed, riding, performing, parked, topped, playing, waiting, clean, filled, skiing, shown, has, full, walking",
+      "Color": "dark, park, cheese, window, open, empty, street, large, old, tie, grass, suit, white, sheep, colorful, silver, cute, \u65e0, phone, two"
+    }
+  },
+  {
+    "ROI": 33,
+    "clustered_semantics": {
+      "Location": "field, bathroom, front, sandwich, sky, wall, table, sitting, street, grass, shirt, building, court, slope, restaurant, beach, \u65e0, desk, display, hand",
+      "Object": "flowers, sign, building, cat, people., train, table, man, candle, pizza, plate, hat, boat, racket, food, chairs, airplane, toilet, surfboard, vegetables",
+      "Action": "playing, painted, swinging, riding, has, wearing, waiting, sitting, sells, filled, holding, skiing, containing, going, looking, drinking, eating, on, jumping, takes",
+      "Color": "phone, park, grassy, old, large, different, open, banana, tall, glasses, white, \u65e0, food, bright, image, two, bird, silver, snow, fluffy"
+    }
+  },
+  {
+    "ROI": 117,
+    "clustered_semantics": {
+      "Location": "hand, surfboard, building, sandwich, table, air, field, road, bathroom, grass, london, front, airport, snow, sink, night, beach, shirt, street, concrete",
+      "Object": "plate, person, pole, surfboard, building, sandwich, glove, sign, racket, cat, computer, train, chairs, boat, man, vegetables, microwave, horse, flowers, plane",
+      "Action": "playing, on, leaning, grazing, shown, wearing, filled, sitting, riding, parked, looking, ski, sleeping, jumping, holding, covered, has, sells, containing, eating",
+      "Color": "old, tall, large, green, street, park, open, phone, silver, fruit, white, bright, grass, two, fluffy, \u65e0, food, door, fancy, suit"
+    }
+  },
+  {
+    "ROI": 72,
+    "clustered_semantics": {
+      "Location": "table, court, field, bathroom, grass, sandwich, on, shirt, corner, bowl, beach, kitchen, street, picture, front, slope, hand, chinese, sitting, snow",
+      "Object": "airplane, building, dog, sandwich, train, furniture, plate, sign, glasses, man, sink, laptop, ball, surfboard, grass, table, vegetables, bird, microwave, picture",
+      "Action": "grazing, parked, laying, holding, throwing, with, playing, shown, sitting, looking, topped, wearing, filled, walking, riding, skiing, containing, surrounded, eating, takes",
+      "Color": "food, clean, none, grassy, young, silver, window, tall, phone, car, white, a., cute, large, snow, park, dark, couple, tie, suit"
+    }
+  },
+  {
+    "ROI": 80,
+    "clustered_semantics": {
+      "Location": "field, sandwich, table, slope, water, laptop, shirt, street, window, track, grass, wall, snow, restaurant, with, hand, building, people., corner, room",
+      "Object": "flowers, sink, sandwich, jacket, sign, plate, bike, man, vegetables, horse, airplane, table, people., surfboard, building, ball, cars, boat, dog, toilet",
+      "Action": "holding, playing, posing, has, and., wearing, lying, sitting, packed, filled, is, skiing, eating, walking, painted, riding, rolling, near, shown, jumping",
+      "Color": "field, empty, city, coffee, bright, colorful, bird, phone, open, large, old, two, dirt, suit, white, wooden, different, snow, water, \u65e0"
+    }
+  },
+  {
+    "ROI": 42,
+    "clustered_semantics": {
+      "Location": "street, sky, mirror, room, sandwich, hill, zoo, table, road, grass, front, beach, chair, station, london, kitchen, field, man, suitcase, shirt",
+      "Object": "grass, train, toilet, person, people., airplane, dog, building, clock, horse, food, surfboard, vase, glasses, table, baseball, man, sign, group, pizza",
+      "Action": "waiting, playing, parked, carrying, seen, sitting, wearing, flying, eating, has, topped, skiing, sliced, next, filled, with, walking, riding, near, leaning",
+      "Color": "old, grass, white, silver, large, park, green, phone, chocolate, clean, tie, glasses, two, fuji, nice, tall, snow, bedroom, basil, street"
+    }
+  },
+  {
+    "ROI": 22,
+    "clustered_semantics": {
+      "Location": "snow, mirror, table, slope, field, court, grass, room, people., street, mouth, beach, sandwich, shirt, sink, counter, pasture, trees, with, ball",
+      "Object": "surfboard, person, vase, train, plate, building, pizza, flowers, cat, people., skateboard, jacket, man, baseball, banana, horse, chairs, airplane, laptop, sign",
+      "Action": "covered, is, riding, lying, holding, wearing, watching, playing, smiling, topped, has, ski, laying, parked, walking, going, eating, sitting, filled, sleeping",
+      "Color": "park, green, busy, different, silver, plate, clean, none, open, food, chocolate, grass, a., white, large, bird, beach, old, coffee, suit"
+    }
+  },
+  {
+    "ROI": 99,
+    "clustered_semantics": {
+      "Location": "kitchen, street, field, forest, grass, slope, wall, sandwich, road, sink, bathroom, beach, snow, shirt, people, table, front, park, \u65e0, display",
+      "Object": "vase, building, shirt, sink, table, train, plate, animal, pizza, man, vegetables, ball, surfboard, laptop, baseball, airplane, skateboard, horse, microwave, rock",
+      "Action": "looking, riding, playing, doing, sleeping, using, holding, sitting, filled, and., topped, ski, near, waiting, has, eating, grazing, leaning, in, wearing",
+      "Color": "empty, chocolate, street, clean, large, cart, silver, cute, colorful, dirt, white, \u65e0, dark, two, food, glasses, young, park, old, snow"
+    }
+  },
+  {
+    "ROI": 89,
+    "clustered_semantics": {
+      "Location": "table, snow, background, field, on, slope, hand, sandwich, street, grass, london, beach, shirt, road, station, front, sign, night, wave, wall",
+      "Object": "vase, plate, blanket, table, laptop, surfboard, dog, flowers, boat, building, man, bus, park, racket, airplane, toilet, pizza, bird, food, jacket",
+      "Action": "covered, playing, driving, eating, sitting, parked, seen, holding, hanging, has, riding, wearing, looking, drinking, mounted, skiing, filled, takes, topped, moving",
+      "Color": "phone, empty, dirt, banner, old, silver, chocolate, cute, large, snow, two, \u65e0, white, different, park, window, dark, glasses, tie, apple"
+    }
+  },
+  {
+    "ROI": 164,
+    "clustered_semantics": {
+      "Location": "grass, field, table, kitchen, room, front, dirt, snow, wave, station, beach, display, street, couch, pasture, bathroom, night, shirt, wall, people.",
+      "Object": "table, vase, surfboard, toilet, shirt, sink, cat, clock, pizza, vegetables, bus, man, laptop, batter, snow, skateboard, building, bedroom, grass, bird",
+      "Action": "looking, riding, playing, parked, posing, performing, rolling, near, eating, holding, wearing, cooking, with, and., is, ski, going, sitting, flying, topped",
+      "Color": "bread, silver, open, food, different, modern, tall, white, glasses, dark, window, grassy, street, suit, young, two, large, beach, \u65e0, old"
+    }
+  },
+  {
+    "ROI": 139,
+    "clustered_semantics": {
+      "Location": "chair, field, front, sky, person, mirror, bathroom, grass, street, beach, bed, truck, building, hat, restaurant, dirt, food, table, wall, laptop",
+      "Object": "train, phone, surfboard, chairs, table, beach, people., toilet, dog, glove, racket, vegetables, picture, man, motorcycle, pizza, pole, red, flowers, luggage",
+      "Action": "with, parked, playing, riding, grazing, skiing, sells, posing, looking, holding, passing, eating, sitting, has, topped, contains, wearing, doing, none, jumping",
+      "Color": "tall, white, dark, silver, busy, different, hat, banner, open, beaker, food, two, old, large, grassy, american, fruit, beach, little, water"
+    }
+  },
+  {
+    "ROI": 63,
+    "clustered_semantics": {
+      "Location": "building, water, runway, plate, table, picture, sink, front, man, grass, snow, beach, dirt, field, london, shirt, street, slope, corner, pole",
+      "Object": "toilet, person, shirt, flowers, train, pizza, boat, airplane, cat, table, man, laptop, vase, building, ball, surfboard, vegetables, sign, horse, bike",
+      "Action": "holding, has, parked, wearing, sitting, surrounded, covered, eating, stopped, laying, riding, skiing, drying, looking, is, cooking, shown, smiling, with, driving",
+      "Color": "white, large, food, banner, grass, computer, tall, ornate, half, clean, a., silver, window, snow, suit, old, horse, two, city, none"
+    }
+  },
+  {
+    "ROI": 16,
+    "clustered_semantics": {
+      "Location": "table, park, pasture, sandwich, field, kitchen, sitting, building, display, street, laptop, front, beach, people., grass, shirt, bathroom, slope, snow, lot",
+      "Object": "plate, shirt, vase, truck, dog, building, toilet, flowers, airplane, pizza, people., ball, sink, vegetables, surfboard, man, racket, bird, boat, food",
+      "Action": "sitting, wearing, going, topped, playing, near, waiting, sleeping, holding, carrying, seen, eating, walking, none, riding, with, covered, goes, parked, skiing",
+      "Color": "street, grassy, large, beer, open, food, none, fruit, banner, old, colorful, suit, horse, silver, phone, white, two, tall, asian, modern"
+    }
+  },
+  {
+    "ROI": 30,
+    "clustered_semantics": {
+      "Location": "snow, field, street, sandwich, road, water, man, zoo, table, kitchen, slope, front, grass, wall, ocean, shirt, sink, london, ground, surfboard",
+      "Object": "building, train, jacket, airplane, plate, clock, pizza, man, table, people., horse, laptop, beach, baseball, toilet, surfboard, flowers, sink, bird, food",
+      "Action": "walking, parked, covered, doing, riding, sitting, has, looking, seen, cleaning, is, skiing, eating, playing, lit, topped, holding, on, jumping, cooking",
+      "Color": "phone, bird, dirt, clean, window, two, beautiful, open, trolly, silver, old, a., bright, tall, large, park, fruit, glasses, white, snow"
+    }
+  },
+  {
+    "ROI": 127,
+    "clustered_semantics": {
+      "Location": "runway, room, table, grass, water, plate, sitting, bun, front, road, street, snow, laptop, shirt, slope, beach, man, background, hand, field",
+      "Object": "cars, statue, clock, cat, plate, man, pizza, sign, racket, vegetables, surfboard, player, people., grass, skateboard, table, helmet, bird, building, airplane",
+      "Action": "doing, near, covered, posing, cleaning, jumping, takes, eating, is, wearing, riding, has, sitting, hanging, looking, ski, pulling, filled, playing, holding",
+      "Color": "dark, little, man, plain, city, clean, wooden, very, silver, suit, park, white, a., colorful, chicken, large, car, glasses, checkered, field"
+    }
+  },
+  {
+    "ROI": 144,
+    "clustered_semantics": {
+      "Location": "front, laptop, table, ground, plate, field, building, grass, sandwich, wood, street, sky, beach, people., restaurant, bathroom, slope, child, wave, shirt",
+      "Object": "flowers, animal, sign, laptop, man, sandwich, surfboard, bed, table, vegetables, shoes, train, bench, building, airplane, chairs, lake, toilet, motorcycle, pole",
+      "Action": "wearing, eating, looking, filled, holding, cooking, playing, reaching, shown, is, parked, topped, walking, riding, under, skiing, covered, has, swinging, sitting",
+      "Color": "old, grassy, colorful, bright, clean, field, empty, silver, cars, computer, two, glasses, chocolate, american, none, tall, man, white, glass, large"
+    }
+  },
+  {
+    "ROI": 77,
+    "clustered_semantics": {
+      "Location": "field, grass, front, court, table, bed, dirt, sign, beach, sandwich, track, building, wall, zoo, laptop, shirt, on, street, people., man",
+      "Object": "horse, bed, park, truck, person, vase, man, table, food, people., surfboard, laptop, pizza, batter, grass, airplane, boat, slope, cheese, jacket",
+      "Action": "full, sitting, view, grazing, riding, topped, has, seen, holding, pointing, surrounded, wearing, filled, with, jumping, goes, eating, looking, using, skiing",
+      "Color": "beach, open, large, dark, tall, silver, window, half, olives, glasses, white, tv, park, different, banner, young, closeup, coffee, two, snow"
+    }
+  },
+  {
+    "ROI": 52,
+    "clustered_semantics": {
+      "Location": "display, field, on, water, slope, table, runway, tracks, street, laptop, front, snow, bedroom, shirt, grass, sandwich, wall, suitcase, restaurant, beach",
+      "Object": "airplane, street, candle, horse, sink, laptop, plate, building, elephant, bus, man, pizza, surfboard, chairs, baseball, vegetables, vase, glove, grass, luggage",
+      "Action": "filled, wearing, sleeping, playing, driving, eating, sitting, holding, riding, jumping, shown, looking, parked, has, containing, skiing, is, cow, none, stacked",
+      "Color": "none, open, chocolate, silver, tan, grass, trolly, phone, clean, white, \u65e0, old, wooden, window, half, two, colorful, dark, large, beach"
+    }
+  },
+  {
+    "ROI": 6,
+    "clustered_semantics": {
+      "Location": "bathroom, water, court, background, snow, front, sink, grass, plate, street, laptop, suitcase, beach, pole, sandwich, field, building, car, table, london",
+      "Object": "toilet, surfboard, pizza, plate, bus, person, boat, furniture, sign, vegetables, man, horse, glasses, racket, building, airplane, plant, laptop, dog, flowers",
+      "Action": "holding, cutting, has, lying, filled, looking, covered, topped, sitting, sells, riding, skiing, wearing, cooking, above, eating, playing, cleaning, hitting, parked",
+      "Color": "phone, open, food, city, silver, large, dark, field, young, window, suit, white, modern, \u65e0, clean, two, park, frosted, tall, beach"
+    }
+  },
+  {
+    "ROI": 55,
+    "clustered_semantics": {
+      "Location": "field, wall, table, street, room, hand, airport, road, snow, mirror, grass, sandwich, front, beach, people., sink, surfboard, shirt, people, building",
+      "Object": "plate, flowers, table, giraffe, pizza, sink, people., vegetables, umbrella, surfboard, laptop, boat, cat, building, train, jacket, baseball, man, bird, airplane",
+      "Action": "playing, riding, has, holding, filled, covered, placed, sitting, wearing, eating, topped, floating, cooking, looking, seen, ski, performing, staring, waiting, using",
+      "Color": "dirt, old, food, dark, window, large, open, young, different, cute, suit, silver, street, two, white, clean, frosted, \u65e0, beautiful, phone"
+    }
+  },
+  {
+    "ROI": 140,
+    "clustered_semantics": {
+      "Location": "bathroom, field, grass, room, station, near, tracks, sky, bed, table, street, building, background, sandwich, beach, jacket, trees, sitting, laptop, wall",
+      "Object": "train, laptop, dog, desk, toilet, pots, man, table, bird, chairs, airplane, pizza, sink, banana, baseball, plate, suitcase, skateboard, pans, shirt",
+      "Action": "is, wearing, holding, and., parked, jumping, grazing, watching, carrying, with, riding, skiing, sitting, waiting, display, filled, laying, eating, playing, decorated",
+      "Color": "laptop, desert, wooden, coffee, colorful, none, clean, white, bikini, clock, old, beach, open, two, dry, slope, basil, large, cluttered, tall"
+    }
+  },
+  {
+    "ROI": 160,
+    "clustered_semantics": {
+      "Location": "room, chair, subway, table, beach, wall, holding, suit, sky, outside, mirror, near, street, forest, cake, water, people, field, building, grass",
+      "Object": "building, clock, skateboarder, plate, bus, cat, cowboy_hat, man, mirror, chair, people., computer, vase, blue, car, bathroom, banana, boat, pizza, men",
+      "Action": "laying, playing, riding, with, holding, walking, competing, looking, throwing, has, hit, bake, clenching, topped, arched, sitting, photo, drinking, driving, shown",
+      "Color": "white, couple, chair, bright, fruit, asian, empty, well, young, closeup, suit, small, brick, jacket, cellphone, cracked, colorful, grassy, calico, clock"
+    }
+  },
+  {
+    "ROI": 37,
+    "clustered_semantics": {
+      "Location": "table, zoo, runway, air, wall, shirt, slope, sandwich, chair, road, people., front, night, hand, snow, street, field, restaurant, grass, beach",
+      "Object": "table, sign, jacket, park, airplane, cat, people., food, sink, plate, pizza, toilet, train, man, ball, flowers, racket, building, giraffe, surfboard",
+      "Action": "traveling, wearing, filled, topped, seen, holding, full, is, riding, has, eating, skiing, doing, near, using, hanging, sitting, playing, waiting, covered",
+      "Color": "open, grassy, dark, chocolate, street, large, wooden, none, phone, desk, young, white, cute, tall, fruit, two, horse, suit, old, \u65e0"
+    }
+  },
+  {
+    "ROI": 120,
+    "clustered_semantics": {
+      "Location": "hand, street, phone, sink, grass, trees, hill, wall, front, station, restaurant, table, beach, bathroom, field, four, airport, girl, chair, sandwich",
+      "Object": "animal, toilet, plane, building, mirror, man, vase, laptop, train, pizza, skateboard, plate, people., ball, box, vegetables, men, shoes, sidewalk, skier",
+      "Action": "displayed, eating, holding, playing, waiting, sitting, has, served, jumping, wearing, surrounded, cleaning, on, riding, posing, skiing, looking, pulling, guiding, flying",
+      "Color": "silver, grassy, young, scenic, cluttered, food, wooden, none, analog, long, a., large, green, bare, baby, frosted, colorful, snow, different, white"
+    }
+  },
+  {
+    "ROI": 106,
+    "clustered_semantics": {
+      "Location": "wall, room, wave, grass, field, street, front, table, road, picture, building, tower, shirt, sky, bathroom, sitting, garage, beach, dark, tokyo",
+      "Object": "cat, train, chairs, park, sign, toilet, building, flowers, table, surfboard, skateboard, man, people., pizza, baseball, vegetables, sink, shoes, vase, food",
+      "Action": "filled, parked, shown, riding, holding, watching, wearing, doing, playing, is, has, ski, topped, in, eating, covered, hanging, cooking, sitting, posing",
+      "Color": "grassy, colorful, field, old, street, chocolate, large, wall, open, desk, dark, wooden, tv, young, glasses, frosted, silver, white, two, phone"
+    }
+  },
+  {
+    "ROI": 122,
+    "clustered_semantics": {
+      "Location": "near, water, field, table, street, snow, room, surfboard, counter, grass, \u65e0, wall, tree, side, background, sitting, food, beach, laptop, rocks",
+      "Object": "flowers, cars, skateboard, building, plate, sandwich, people., street, man, sink, food, picture, ball, banana, surfboard, shoes, giraffe, toilet, bird, luggage",
+      "Action": "flying, covered, seen, riding, is, playing, parked, eating, going, posing, sitting, holding, has, jumping, wearing, driving, above, touching, sleeping, skiing",
+      "Color": "tall, dark, colorful, \u65e0, grassy, city, half, chicken, bed, wooden, white, two, empty, young, clean, large, suit, glasses, food, none"
+    }
+  },
+  {
+    "ROI": 161,
+    "clustered_semantics": {
+      "Location": "room, slope, field, forest, street, bed, grass, laptop, table, runway, sink, restaurant, wave, wall, child, front, beach, london, shirt, snow",
+      "Object": "sink, pole, bus, cat, laptop, plane, table, building, toilet, umbrella, ball, pizza, vase, man, vegetables, flowers, picture, surfboard, horse, luggage",
+      "Action": "riding, shown, eating, playing, displayed, near, sitting, holding, parked, smiling, filled, topped, looking, cooking, skiing, using, has, cleaning, and., takes",
+      "Color": "dirt, large, food, old, open, silver, beautiful, car, image, clean, phone, dark, snow, white, couple, asian, glasses, cute, colorful, empty"
+    }
+  },
+  {
+    "ROI": 159,
+    "clustered_semantics": {
+      "Location": "grass, sky, street, outside, bathroom, skateboard, sitting, field, laptop, table, bed, wall, sandwich, camera, ocean, bakery, hand, man, air, dress",
+      "Object": "surfboard, cars, building, motorcycle, toilet, man, racket, wooden, people., laptop, animal, flowers, bananas, sandwich, plate, guy, luggage, mirror, jacket, horses",
+      "Action": "floating, preparing, throwing, containing, riding, wearing, playing, watching, filled, laying, seen, skiing, standing, has, clean, contains, eating, topped, holding, on",
+      "Color": "silver, many, warm, tan, large, sidewalk, compilation, young, brick, glasses, baseball, white, closeup, celery, clean, couple, colorful, busy, toy, dirt"
+    }
+  },
+  {
+    "ROI": 169,
+    "clustered_semantics": {
+      "Location": "side, chair, field, wall, building, front, street, room, airport, pole, table, chinese, sitting, shirt, hand, sandwich, grass, snow, skateboard, water",
+      "Object": "horse, table, candle, bus, boat, park, sink, plate, truck, sandwich, jacket, skateboard, bench, people., building, man, airplane, tree, broccoli, luggage",
+      "Action": "holding, with, eating, displayed, doing, filled, covered, riding, walking, drinking, wearing, cut, sitting, is, parked, ski, looking, posing, playing, flying",
+      "Color": "silver, coffee, phone, colorful, different, field, grass, closeup, beach, city, snowy, old, food, empty, large, two, white, glasses, none, tie"
+    }
+  },
+  {
+    "ROI": 141,
+    "clustered_semantics": {
+      "Location": "background, hand, slope, tracks, court, grass, wall, sandwich, street, chair, park, sky, table, dress, branch, people, runway, front, field, bathroom",
+      "Object": "laptop, bus, table, sink, bear, plate, boat, bowl, clock, lake, man, mask, motorcycle, airplane, baseball, skateboard, vegetables, vase, desk, flowers",
+      "Action": "holding, wearing, riding, traveling, catching, topped, eating, phone, using, with, has, placed, filled, is, displayed, skiing, sitting, containing, posing, playing",
+      "Color": "pretty, baby, phone, empty, dirt, city, wooden, man, bed, white, dark, snow, chocolate, large, banner, tie, open, none, deluxe, green"
+    }
+  },
+  {
+    "ROI": 130,
+    "clustered_semantics": {
+      "Object": "table, skier, ball, man, bike, building, tv, kid, accessories, bowl, pizza, luggage, bear, apples, sink, airplane, vase, food, rider, dark",
+      "Location": "bottle, wall, rain, floor, grass, airport, slope, luggage, room, street, dress, outside, table, none, suit, tree, ramp, screen, beach, dark",
+      "Action": "hitting, looks, lying, riding, walking, connecting, filled, has, sit, parked, wearing, on, laying, sits, grazing, bathing, holding, seen, playing, smile",
+      "Color": "pretty, white, ring, bikini, flat, busy, adult, fancy, field, large, meat, historic, none, marble, metallic, asphalt, old, clean, snow, glasses"
+    }
+  },
+  {
+    "ROI": 156,
+    "clustered_semantics": {
+      "Location": "grass, room, field, court, water, sky, trees, building, street, front, mirror, shirt, sandwich, beach, table, runway, people., park, game, man",
+      "Object": "hat, horse, pizza, people., plate, table, statue, road, surfboard, boat, train, man, batter, laptop, vegetables, building, airplane, toilet, luggage, flowers",
+      "Action": "near, playing, wearing, looking, parked, traveling, is, using, holding, sitting, sleeping, eating, preparing, and., with, skiing, riding, brushing, has, running",
+      "Color": "silver, grassy, clean, coffee, tan, beach, phone, white, green, none, open, young, \u65e0, two, large, fruit, snow, tall, horse, window"
+    }
+  },
+  {
+    "ROI": 119,
+    "clustered_semantics": {
+      "Location": "skateboard, kitchen, on, city, water, grass, car, air, table, field, street, window, mirror, cake, counter, beach, front, people., background, slope",
+      "Object": "kite, table, sink, laptop, man, vase, sheep, beach, vegetables, horse, train, plate, kid, skateboard, airplane, shirt, flowers, suitcase, motorcycle, sandwich",
+      "Action": "grazing, holding, ready, has, hanging, filled, looking, drinking, near, skateboarding, jumping, sitting, riding, attached, playing, flying, laying, cooking, taking, throwing",
+      "Color": "tall, tan, young, unknown, compilation, grassy, white, silver, breadstick, close, large, green, colorful, sunny, brick, phone, dirt, a., scenic, couple"
+    }
+  },
+  {
+    "ROI": 135,
+    "clustered_semantics": {
+      "Location": "ramp, field, front, lot, table, bed, sky, grass, bathroom, ocean, runway, trees, street, mirror, sandwich, man, shirt, wall, court, market",
+      "Object": "truck, flowers, building, clock, sink, table, food, toilet, boat, cat, vase, shoes, ball, airplane, camera, man, vegetables, surfboard, people., luggage",
+      "Action": "playing, posing, wearing, has, covered, holding, doing, built, riding, eating, is, filled, watching, taking, jumping, skiing, sitting, shown, waiting, spraying",
+      "Color": "chicken, large, green, beach, glasses, old, couple, computer, snow, brick, dirt, white, broken, \u65e0, greenery, colorful, gold, open, park, modern"
+    }
+  },
+  {
+    "ROI": 124,
+    "clustered_semantics": {
+      "Location": "table, street, background, building, air, bench, front, food, suitcase, tracks, beach, slope, wall, sitting, kitchen, field, \u65e0, large, shirt, grass",
+      "Object": "cat, airplane, building, furniture, people, mirror, statue, broccoli, luggage, food, train, clock, kitchen, man, tree, red, table, laptop, surfboard, car",
+      "Action": "jumping, making, holding, lying, walking, next, playing, are, eating, with, sitting, looking, shown, laying, filled, skiing, riding, mounted, posing, clean",
+      "Color": "phone, colorful, plastic, two, tie, clean, open, green, \u65e0, sideways, white, little, counters, food, brick, young, busy, snow, silver, large"
+    }
+  },
+  {
+    "ROI": 126,
+    "clustered_semantics": {
+      "Object": "paper, hydrant, man, pots, sink, building, cat, dishes, plate, bus, apron, surfboard, bag, guy, table, laptop, skier, vegetables, airplane, toilet",
+      "Location": "wall, keyboard, grass, background, beach, pasture, front, paper, street, building, field, curb, sandles, car, bathroom, mirror, suitcase, buns, near, table",
+      "Action": "eating, riding, walking, put, growing, holding, none, playing, preparing, aids, grazing, displayed, has, posing, sitting, laying, filled, jumping, looking, is",
+      "Color": "silver, white, little, plain, wooden, apartment, beach, tie, blown, food, cheesy, couple, bread, old, knitted, grassy, outdoor, city, snow, large"
+    }
+  },
+  {
+    "ROI": 154,
+    "clustered_semantics": {
+      "Location": "on, street, game, bathroom, table, water, suitcase, photo, background, sandwich, laptop, snow, front, grass, counter, beach, field, slope, \u65e0, wall",
+      "Object": "candle, surfboard, chairs, building, cat, pizza, clock, airplane, bowl, plate, sink, ball, man, shirt, cars, beach, horse, black, banana, street",
+      "Action": "filled, has, jumping, looking, holding, sells, eating, riding, waiting, sitting, clean, decorated, is, laying, lying, in, shown, parked, wave, skiing",
+      "Color": "tall, water, near, white, phone, food, beautiful, young, open, none, \u65e0, two, silver, bright, clean, grassy, snow, bread, curb, large"
+    }
+  },
+  {
+    "ROI": 112,
+    "clustered_semantics": {
+      "Location": "plate, tracks, trees, field, street, wave, wall, park, shirt, sandwich, girl, water, back, slope, front, sky, store, picture, grass, runway",
+      "Object": "vases, dog, pole, sink, luggage, chairs, building, truck, toilet, man, umbrella, grass, guy, surfboard, sandwich, food, airplane, wave, motorcycle, laptop",
+      "Action": "looking, filled, using, pulling, grazing, talking, walking, with, hitting, covered, parked, riding, shown, holding, cutting, sitting, skiing, drinking, playing, eating",
+      "Color": "wooden, park, white, field, phone, two, half, young, green, dirt, large, snow, grass, chicken, big, suit, glasses, tall, sitting, chocolate"
+    }
+  },
+  {
+    "ROI": 152,
+    "clustered_semantics": {
+      "Location": "grass, near, building, street, window, court, hill, restaurant, field, desk, beach, water, bathroom, table, sky, flowers, surfboard, chair, vanity, sandwich",
+      "Object": "pizza, airplane, table, toilet, hat, people., people, horse, beach, truck, man, train, ball, vase, surfboard, laptop, plate, flowers, bedroom, vegetables",
+      "Action": "parked, has, laying, wearing, eating, topped, in, running, sitting, looking, smiling, skiing, driving, is, walking, covered, riding, holding, made, playing",
+      "Color": "plate, street, night, plain, grassy, phone, chocolate, man, two, suit, silver, tall, large, brick, clean, white, american, snow, dark, sandwich"
+    }
+  },
+  {
+    "ROI": 148,
+    "clustered_semantics": {
+      "Location": "table, holding, front, room, background, field, surfboard, water, building, street, hill, wall, dress, food, man, computer, park, bright, rocks, grass",
+      "Object": "truck, toilet, bench, man, vase, computer, grass, surfboard, cat, plate, building, guy, motorcycle, food, toothbrush, sandwich, picture, birds, sink, luggage",
+      "Action": "gather, walking, wearing, parked, has, flying, lit, looking, swinging, cutting, shown, grazing, sitting, near, holding, driving, playing, skiing, adds, covered",
+      "Color": "little, wave, a., busy, none, colorful, young, white, suit, metal, glasses, green, rocks, snow, cheese, large, museum, blurred, grass, silver"
+    }
+  },
+  {
+    "ROI": 128,
+    "clustered_semantics": {
+      "Location": "table, snow, front, bathroom, room, road, bus, grass, street, pasture, food, court, field, slope, dirt, photo, gear, sitting, wall, water",
+      "Object": "chairs, person, sink, cat, cake, plate, furniture, bus, bathroom, building, laptop, lake, racket, surfboard, airplane, flowers, shoes, man, truck, vegetables",
+      "Action": "is, filled, laying, eating, playing, reaching, riding, enjoying, skiing, holding, hitting, shown, wearing, sitting, looking, with, cleaning, preparing, hanging, pulling",
+      "Color": "bright, clean, silver, grassy, wall, wooden, half, park, bread, nice, old, none, snow, white, suit, sheep, \u65e0, large, open, cream"
+    }
+  },
+  {
+    "ROI": 110,
+    "clustered_semantics": {
+      "Location": "desk, front, water, garage, city, street, slope, picture, yard, shirt, snow, table, sandwich, with, grass, bathroom, field, people., beach, event",
+      "Object": "surfboard, table, train, cat, sink, boat, pizza, flowers, people., racket, vase, luggage, plate, vegetables, man, hat, truck, bird, bed, sign",
+      "Action": "playing, holding, has, covered, is, laying, lit, smiling, sitting, walking, riding, eating, jumping, filled, goes, drinking, parked, grazing, using, skiing",
+      "Color": "park, open, empty, phone, beach, little, silver, dark, none, coffee, white, old, suit, field, clean, \u65e0, large, snow, tall, fruit"
+    }
+  },
+  {
+    "ROI": 125,
+    "clustered_semantics": {
+      "Object": "vase, girl, dog, sink, pots, bathroom, clock, table, skateboard, microwave, clothes, black, dishes, computer, kid, broccoli, cars, suitcase, plane, building",
+      "Location": "standing, airport, table, hand, field, grass, damage, kitchen, wall, plate, garage, sky, water, clothes, playing, sidewalk, trees, laptop, hill, river",
+      "Action": "looks, mounted, displaying, playing, jumping, posing, sitting, with, holding, parked, painted, smoking, skiing, has, riding, filled, clock, laying, walking, bowl",
+      "Color": "wooden, field, leash, standing, apples, metal, white, old, catering, leaves, phone, snow, beach, couple, billboard, jacket, blue, large, colorful, balloons"
+    }
+  },
+  {
+    "ROI": 137,
+    "clustered_semantics": {
+      "Location": "bathroom, street, room, mirror, background, sandwich, sky, mouth, front, grass, shirt, beach, sitting, window, child, tracks, table, dirt, field, restaurant",
+      "Object": "airplane, people., train, man, building, bear, couch, skateboard, horse, table, vase, batter, toilet, chair, dog, picture, luggage, banana, computer, pizza",
+      "Action": "filled, topped, laying, has, riding, eating, holding, walking, sells, sitting, ski, waiting, jumping, posing, carrying, is, with, playing, near, covered",
+      "Color": "large, cheese, field, green, access, half, a., scenic, clean, park, wood, white, bright, buildings, man, colorful, tall, glasses, empty, phone"
+    }
+  },
+  {
+    "ROI": 166,
+    "clustered_semantics": {
+      "Location": "bathroom, runway, city, field, front, street, table, sandwich, grass, counter, beach, room, window, snow, shirt, laptop, pasture, bench, sink, slope",
+      "Object": "train, table, building, grass, plate, surfboard, truck, dog, sink, toilet, sandwich, man, people., banana, bench, skateboard, bed, water, horse, jacket",
+      "Action": "seen, flying, sells, has, leaning, holding, looking, sitting, riding, posing, wearing, with, filled, topped, parked, ski, eating, grazing, and., takes",
+      "Color": "banner, silver, window, half, white, open, none, dark, coffee, glasses, old, \u65e0, grass, city, long, snow, street, horse, empty, large"
+    }
+  },
+  {
+    "ROI": 132,
+    "clustered_semantics": {
+      "Location": "table, belt, park, snow, luggage, front, field, background, beach, track, holding, trees, bowl, sidewalk, room, display, arm, wall, runway, chair",
+      "Object": "dog, man, toilet, cake, mirror, ball, boat, table, people., bowl, laptop, person, bouquet, skier, orange, airplane, flagpole, apples, utensils, plate",
+      "Action": "sitting, holding, in, bear, filled, captures, cutting, looking, skiing, leaning, hugging, serve, flying, playing, with, walking, smile, wear, sleeping, running",
+      "Color": "baby, white, young, floral, little, blue, colorful, grass, square, rainbow, park, head, large, group, plant, wings, road, curb, cement, cheese"
+    }
+  },
+  {
+    "ROI": 138,
+    "clustered_semantics": {
+      "Location": "table, room, grass, outside, building, playing, street, laptop, water, sandwich, wall, \u65e0, suitcase, rug, screen, bus, tree, dressed, sky, field",
+      "Object": "cat, man, chair, train, pole, broccoli, racket, sandwich, skateboard, artwork, plate, tv, bunch, luggage, skis, clock, horse, photo, bed, airplane",
+      "Action": "holding, placed, posing, taking, and., walking, riding, drinking, has, jumping, captures, adjusting, waiting, on, grazing, pulling, standing, hitting, playing, sitting",
+      "Color": "as, colorful, city, bed, dirt, little, clock, \u65e0, gold, young, floral, butter, tall, lake, white, blurry, decorative, large, glasses, red"
+    }
+  },
+  {
+    "ROI": 121,
+    "clustered_semantics": {
+      "Location": "table, fence, court, street, laptop, kitchen, hill, event, hand, near, bed, room, building, grass, field, beach, store, sandwich, girl, motorcycle",
+      "Object": "plate, clock, man, luggage, cat, table, building, sink, horse, cars, plane, computer, banana, batter, surfboard, pizza, picture, suit, standing, train",
+      "Action": "riding, posing, parked, mounted, sitting, jumps, laying, holding, eating, wearing, installed, ski, has, filled, looking, with, ready, using, swinging, cleaned",
+      "Color": "street, clock, brick, ablaze, slope, old, bread, white, clean, chicken, nice, couple, knitted, bright, large, flying, bouquet, little, silver, christmas"
+    }
+  },
+  {
+    "ROI": 145,
+    "clustered_semantics": {
+      "Location": "building, street, background, grass, bowl, bathroom, field, food, arena, near, slope, kitchen, plate, beach, sitting, airport, bed, bedroom, window, dress",
+      "Object": "bowl, train, kid, kite, girl, skateboard, computer, dog, shirt, desk, vases, banana, sandwich, wall, airplane, toilet, sink, drink, luggage, book",
+      "Action": "docked, has, showing, playing, riding, looking, parked, looks, eating, on, bake, holding, placed, sitting, wearing, posing, skiing, gather, serve, jumps",
+      "Color": "truck, large, none, cheese, old, tiled, white, green, snow, grass, a., colorful, access, image, fruit, computer, bed, beautiful, tabby, red"
+    }
+  },
+  {
+    "ROI": 142,
+    "clustered_semantics": {
+      "Location": "owner, against, hydrant, day, shelf, orange, trees, broccoli, bed, dirt, clock, beach, in, photograph, collar, holding, paddocks, kitchen, background, rail",
+      "Object": "float, counter, book, man, building, banana, pavilion, clock, box, skiers, girls, dog, bus, people., appliances, hydrant, chairs, bowl, food, couple",
+      "Action": "sitting, has, riding, attaching, with, filled, hunches, eating, walking, organized, standing, it., fumble, holding, skiing, leash, grinding, landscaped, missing, full",
+      "Color": "white, stone, black, concrete, dark, green, iced, jacket, large, manicured, marble, open, powdered, roofed, small, stainless, sweater, tan, window"
+    }
+  },
+  {
+    "ROI": 113,
+    "clustered_semantics": {
+      "Location": "room, sitting, zoo, building, field, track, background, front, snow, grass, laptop, stove, wall, street, beach, slope, shirt, sandwich, picture, batter",
+      "Object": "shirt, clock, kite, horse, building, sink, man, skier, plane, cake, train, laptop, toilet, batter, truck, boat, photo, vegetables, luggage, table",
+      "Action": "mounted, eating, with, waiting, laying, flying, filled, watching, riding, walking, hanging, playing, showing, swinging, looking, in, sitting, parked, holding, topped",
+      "Color": "colorful, cup, large, clean, window, big, tie, hat, artistic, old, dirt, asian, cloudy, none, chocolate, trolly, white, brick, metal, scenic"
+    }
+  },
+  {
+    "ROI": 129,
+    "clustered_semantics": {
+      "Object": "horse, man, vase, person, banana, birds, skier, street, costumes, chair, nintendo, child, bed, book, curb, boats, bike, photo, bathroom, plate",
+      "Location": "completely, large, arena, curb, background, in., fence, bus, table, television, road, bathroom, book, pond, hill, grass, kitchen, room, bedroom, bookcase",
+      "Action": "riding, playing, in., holding, filthy, has, watching, on, follow, filled, skate, drinking, swing, completing, sitting, walking, nurturing, contained, lies, placed",
+      "Color": "old, blue, brown, small, kitchen, plain, wood, white, beautiful, ground, sandy, alpine, silver, happy, soiled, little, tall, a., green, dry"
+    }
+  },
+  {
+    "ROI": 147,
+    "clustered_semantics": {
+      "Location": "building, desk, platform, dark, snow, table, dirt, near, camera, playing, tent, sink, field, room, lap, beach, branches, dress, concrete, bedroom",
+      "Object": "surfer, baby, person, plate, vase, figurine, sink, back, stoplight, cat, airplane, bicycle, luggage, building, blanket, bed, book, cattle, cake, cup",
+      "Action": "gather, holding, in., filled, bending, sleeping, eating, sitting, flying, looking, on, laying, hanging, wearing, and., playing, has, carrying, next, displayed",
+      "Color": "looking, green, dry, wood, brown, large, blue, white, fancy, silk, part, long, skies, asian, glasses, different, horned, desert, couple, coffee"
+    }
+  },
+  {
+    "ROI": 168,
+    "clustered_semantics": {
+      "Location": "background, face, wall, runway, picture, table, sandwich, chips, slope, ramp, outside, grass, field, kitchen, ocean, carpet, hospital, cuddling, street, surfer",
+      "Object": "building, skateboard, toilet, bowl, sink, people., plate, dog, shirt, bar, truck, airplane, man, table, vegetables, phone, blue, microwave, birds, pizza",
+      "Action": "placed, has, filled, show, riding, hitting, walking, wave, eating, sitting, goes, skiing, running, holding, playing, next, near, posing, laying, waiting",
+      "Color": "large, clock, wet, white, bikini, bundt, bed, park, game, computer, broadway, old, silver, sheep, jetliner, colorful, two, station, grass, man"
+    }
+  },
+  {
+    "ROI": 131,
+    "clustered_semantics": {
+      "Location": "runway, airport, airstrip, bathroom, beach, collar, dog, field, grass, hotel, leash, orange, owner, pedestal, sink, surfboard, wave",
+      "Action": "laying, riding, sitting, stands, corner, enclosed, galloping, hiding, leash, letting, parked, racing, snuggling",
+      "Object": "dog, woman, animal, bathroom, child, cow, horse, man, motorcycle, people., person, shower, sink",
+      "Color": "white, gray, pink, red"
+    }
+  },
+  {
+    "ROI": 149,
+    "clustered_semantics": {
+      "Object": "candles, greenhouse, suitcase, field, adult, locomotive, men, food, fence, chocolate, surfboard, book, airplane, woman, pose, people., couch, tv, building, animals",
+      "Location": "mountains, building, drink, field, tv, table, garden, wave, zoo, surrounded, dry, book, street, mirror, runway, meter, curve, candles, fence, corner",
+      "Action": "grabbing, preparing, has, beside, standing, very, riding, renovated, tying, in., hiding, seen, spread, adjusting, filled, on, with, tower, parked, nice",
+      "Color": "cloudy, colorful, concrete, cream, flowers, green, white, wood, wooden"
+    }
+  },
+  {
+    "ROI": 150,
+    "clustered_semantics": {
+      "Action": "standing, sitting, carrying, chats, galloping, kneeling, moving, pet, riding, traveling, uses, walking, walks",
+      "Location": "field, outside, truck, beach, corner, dry, street, track, trees",
+      "Object": "carts, horse, man, men, person, sign, train, woman",
+      "Color": "green"
+    }
+  },
+  {
+    "ROI": 170,
+    "clustered_semantics": {
+      "Location": "gear, dirt, night, table, surfboard, area, grass, cabinetry, field, container, distance, window, near, dress, standing, laptop, boys, chair, beach, street",
+      "Object": "beds, keyboard, bus, ball, fork, motorcycle, bear, table, man, couple, sandwich, chairs, birds, bowl, bench, flowers, people., horses, plates, baby",
+      "Action": "surrounded, standing, covered, are, adds, catches, brushing, with, driving, riding, housing, displayed, pictured, laying, jumping, walking, hanging, nearby, focusing, looking",
+      "Color": "boys, blond, red, person, white, dirt, sitting, looking, crooked, small, nice, horseback, ground, beach, grass, near, baby, broken, bush, green"
+    }
+  },
+  {
+    "ROI": 167,
+    "clustered_semantics": {
+      "Object": "kitchen, foal, woman, trees, pots, spaghetti, racket, skiers, noodles, plate, burner, people, cat, cabinets, bread, ball, pony, broccoli, goalie, pans",
+      "Action": "sitting, walking, in., topped, returning, swinging, scene, skiing, riding, hanging, reading, meal, has, holding, mounted, on, with, and., bending, complete",
+      "Location": "wall, bench, field, beside, branch, burner, court, forest, front, grass, island, kitchen, oven, park, slope, stove",
+      "Color": "two, couple, small, white, yellow, young"
+    }
+  }
+]
